@@ -8,7 +8,7 @@
    <trans-unit id="1" resname="at-1">
       <source xml:lang="ja">定型文辞書を使ってください。</source>
    </trans-unit>
-   <trans-unit id="2" resname="at-1">
+   <trans-unit id="2" resname="at-2">
       <source xml:lang="en">日本語</source>
    </trans-unit>
 </body>
