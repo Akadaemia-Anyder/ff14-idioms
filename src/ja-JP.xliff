@@ -3,15 +3,13 @@
   xmlns="urn:oasis:names:tc:xliff:document:1.2" 
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
-<file source-language="ja" target-language="ko" datatype="plaintext" original="ng2.template">
+<file source-language="ja" datatype="plaintext" original="ng2.template">
 <body>
    <trans-unit id="1" resname="at-1">
       <source xml:lang="ja">定型文辞書を使ってください。</source>
-      <target xml:lang="ko">정형문 사전을 사용해주세요.</target>
    </trans-unit>
    <trans-unit id="2" resname="at-1">
       <source xml:lang="en">日本語</source>
-      <target xml:lang="fr">일본어</target>
    </trans-unit>
 </body>
 </file>
