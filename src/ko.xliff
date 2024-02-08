@@ -5,8 +5,9 @@
       <trans-unit id="1" resname="at-1">
         <source xml:lang="ja">定型文辞書を使ってください。</source>
       </trans-unit>
-      <trans-unit id="2" resname="at-1">
-        <source xml:lang="en">日本語</source>
+      <trans-unit id="2" resname="at-1" xml:space="preserve" approved="no">
+        <source>日本語</source>
+        <target state="translated">정형문 사전을 사용해주세요.</target>
       </trans-unit>
     </body>
   </file>
