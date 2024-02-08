@@ -6,6 +6,10 @@
         <source>日本語</source>
         <target state="translated">정형문 사전을 사용해주세요.</target>
       </trans-unit>
+      <trans-unit id="2" resname="at-2" xml:space="preserve" approved="no">
+      <source>日本語</source>
+        <target state="translated">일본어</target>
+      </trans-unit>
     </body>
   </file>
 </xliff>
