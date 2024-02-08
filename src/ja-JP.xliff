@@ -1,16 +1,5518 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" 
-  xmlns="urn:oasis:names:tc:xliff:document:1.2" 
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
-<file source-language="ja" datatype="plaintext" original="ng2.template">
-<body>
-   <trans-unit id="1" resname="at-1">
-      <source xml:lang="ja">定型文辞書を使ってください。</source>
-   </trans-unit>
-   <trans-unit id="2" resname="at-2">
-      <source xml:lang="en">日本語</source>
-   </trans-unit>
-</body>
-</file>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file original="" xml:space="preserve" source-language="ja" target-language="ja">
+    <header>
+      <tool tool-id="poeditor.com" tool-name="POEditor"/>
+    </header>
+    <body>
+      <trans-unit id="1">
+        <source>言葉</source>
+        <target>言葉</target>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>定型文辞書を使ってください。</source>
+        <target>定型文辞書を使ってください。</target>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>日本語</source>
+        <target>日本語</target>
+      </trans-unit>
+      <trans-unit id="4">
+        <source>英語</source>
+        <target>英語</target>
+      </trans-unit>
+      <trans-unit id="5">
+        <source>フランス語</source>
+        <target>フランス語</target>
+      </trans-unit>
+      <trans-unit id="6">
+        <source>ドイツ語</source>
+        <target>ドイツ語</target>
+      </trans-unit>
+      <trans-unit id="7">
+        <source>日本語は話せますか？</source>
+        <target>日本語は話せますか？</target>
+      </trans-unit>
+      <trans-unit id="8">
+        <source>英語は話せますか？</source>
+        <target>英語は話せますか？</target>
+      </trans-unit>
+      <trans-unit id="9">
+        <source>フランス語は話せますか？</source>
+        <target>フランス語は話せますか？</target>
+      </trans-unit>
+      <trans-unit id="10">
+        <source>ドイツ語は話せますか？</source>
+        <target>ドイツ語は話せますか？</target>
+      </trans-unit>
+      <trans-unit id="11">
+        <source>私は英語が話せません。</source>
+        <target>私は英語が話せません。</target>
+      </trans-unit>
+      <trans-unit id="12">
+        <source>私は日本語が話せません。</source>
+        <target>私は日本語が話せません。</target>
+      </trans-unit>
+      <trans-unit id="13">
+        <source>私はフランス語が話せません。</source>
+        <target>私はフランス語が話せません。</target>
+      </trans-unit>
+      <trans-unit id="14">
+        <source>私はドイツ語が話せません。</source>
+        <target>私はドイツ語が話せません。</target>
+      </trans-unit>
+      <trans-unit id="15">
+        <source>聞いてください。</source>
+        <target>聞いてください。</target>
+      </trans-unit>
+      <trans-unit id="16">
+        <source>聞こえていますか？</source>
+        <target>聞こえていますか？</target>
+      </trans-unit>
+      <trans-unit id="17">
+        <source>少し話せます。</source>
+        <target>少し話せます。</target>
+      </trans-unit>
+      <trans-unit id="18">
+        <source>少しなら理解できます。</source>
+        <target>少しなら理解できます。</target>
+      </trans-unit>
+      <trans-unit id="19">
+        <source>簡単な単語で話してください。</source>
+        <target>簡単な単語で話してください。</target>
+      </trans-unit>
+      <trans-unit id="20">
+        <source>省略形ではなくフルスペルでお願いします。</source>
+        <target>省略形ではなくフルスペルでお願いします。</target>
+      </trans-unit>
+      <trans-unit id="21">
+        <source>返事するのでちょっと待ってください。</source>
+        <target>返事するのでちょっと待ってください。</target>
+      </trans-unit>
+      <trans-unit id="22">
+        <source>母国語は何ですか？</source>
+        <target>母国語は何ですか？</target>
+      </trans-unit>
+      <trans-unit id="23">
+        <source>あいさつ</source>
+        <target>あいさつ</target>
+      </trans-unit>
+      <trans-unit id="24">
+        <source>はじめまして。</source>
+        <target>はじめまして。</target>
+      </trans-unit>
+      <trans-unit id="25">
+        <source>おはよう。</source>
+        <target>おはよう。</target>
+      </trans-unit>
+      <trans-unit id="26">
+        <source>こんにちは。</source>
+        <target>こんにちは。</target>
+      </trans-unit>
+      <trans-unit id="27">
+        <source>こんばんは。</source>
+        <target>こんばんは。</target>
+      </trans-unit>
+      <trans-unit id="28">
+        <source>おやすみなさい。</source>
+        <target>おやすみなさい。</target>
+      </trans-unit>
+      <trans-unit id="29">
+        <source>さようなら。</source>
+        <target>さようなら。</target>
+      </trans-unit>
+      <trans-unit id="30">
+        <source>今日は楽しかったです。</source>
+        <target>今日は楽しかったです。</target>
+      </trans-unit>
+      <trans-unit id="31">
+        <source>また会いましょう！</source>
+        <target>また会いましょう！</target>
+      </trans-unit>
+      <trans-unit id="32">
+        <source>また遊びましょう。</source>
+        <target>また遊びましょう。</target>
+      </trans-unit>
+      <trans-unit id="33">
+        <source>ただいま。</source>
+        <target>ただいま。</target>
+      </trans-unit>
+      <trans-unit id="34">
+        <source>おかえり。</source>
+        <target>おかえり。</target>
+      </trans-unit>
+      <trans-unit id="35">
+        <source>おめでとう！</source>
+        <target>おめでとう！</target>
+      </trans-unit>
+      <trans-unit id="36">
+        <source>よくやった！</source>
+        <target>よくやった！</target>
+      </trans-unit>
+      <trans-unit id="37">
+        <source>がんばって！</source>
+        <target>がんばって！</target>
+      </trans-unit>
+      <trans-unit id="38">
+        <source>やったー！</source>
+        <target>やったー！</target>
+      </trans-unit>
+      <trans-unit id="39">
+        <source>ありがとう。</source>
+        <target>ありがとう。</target>
+      </trans-unit>
+      <trans-unit id="40">
+        <source>どういたしまして。</source>
+        <target>どういたしまして。</target>
+      </trans-unit>
+      <trans-unit id="41">
+        <source>気を付けてください。</source>
+        <target>気を付けてください。</target>
+      </trans-unit>
+      <trans-unit id="42">
+        <source>ごめんなさい。</source>
+        <target>ごめんなさい。</target>
+      </trans-unit>
+      <trans-unit id="43">
+        <source>許してください。</source>
+        <target>許してください。</target>
+      </trans-unit>
+      <trans-unit id="44">
+        <source>残念です。</source>
+        <target>残念です。</target>
+      </trans-unit>
+      <trans-unit id="45">
+        <source>ちょっといいですか？</source>
+        <target>ちょっといいですか？</target>
+      </trans-unit>
+      <trans-unit id="46">
+        <source>それではよい旅を。</source>
+        <target>それではよい旅を。</target>
+      </trans-unit>
+      <trans-unit id="47">
+        <source>ここに来るのは初めてです。</source>
+        <target>ここに来るのは初めてです。</target>
+      </trans-unit>
+      <trans-unit id="48">
+        <source>楽しみです！</source>
+        <target>楽しみです！</target>
+      </trans-unit>
+      <trans-unit id="49">
+        <source>お疲れ様でした。</source>
+        <target>お疲れ様でした。</target>
+      </trans-unit>
+      <trans-unit id="50">
+        <source>よろしくお願いします！</source>
+        <target>よろしくお願いします！</target>
+      </trans-unit>
+      <trans-unit id="51">
+        <source>ありがとうございました。これで失礼します。</source>
+        <target>ありがとうございました。これで失礼します。</target>
+      </trans-unit>
+      <trans-unit id="52">
+        <source>気楽にやりましょう！</source>
+        <target>気楽にやりましょう！</target>
+      </trans-unit>
+      <trans-unit id="53">
+        <source>がんばります！</source>
+        <target>がんばります！</target>
+      </trans-unit>
+      <trans-unit id="54">
+        <source>一緒にがんばりましょう！</source>
+        <target>一緒にがんばりましょう！</target>
+      </trans-unit>
+      <trans-unit id="55">
+        <source>楽しみましょう！</source>
+        <target>楽しみましょう！</target>
+      </trans-unit>
+      <trans-unit id="56">
+        <source>落ち着いていきましょう！</source>
+        <target>落ち着いていきましょう！</target>
+      </trans-unit>
+      <trans-unit id="57">
+        <source>質問</source>
+        <target>質問</target>
+      </trans-unit>
+      <trans-unit id="58">
+        <source>誰ですか？</source>
+        <target>誰ですか？</target>
+      </trans-unit>
+      <trans-unit id="59">
+        <source>どちらですか？</source>
+        <target>どちらですか？</target>
+      </trans-unit>
+      <trans-unit id="60">
+        <source>どうすればいいですか？</source>
+        <target>どうすればいいですか？</target>
+      </trans-unit>
+      <trans-unit id="61">
+        <source>何ですか？</source>
+        <target>何ですか？</target>
+      </trans-unit>
+      <trans-unit id="62">
+        <source>いつですか？</source>
+        <target>いつですか？</target>
+      </trans-unit>
+      <trans-unit id="63">
+        <source>いくつですか？</source>
+        <target>いくつですか？</target>
+      </trans-unit>
+      <trans-unit id="64">
+        <source>どこですか？</source>
+        <target>どこですか？</target>
+      </trans-unit>
+      <trans-unit id="65">
+        <source>なぜですか？</source>
+        <target>なぜですか？</target>
+      </trans-unit>
+      <trans-unit id="66">
+        <source>どうしてですか？</source>
+        <target>どうしてですか？</target>
+      </trans-unit>
+      <trans-unit id="67">
+        <source>どこに行きますか？</source>
+        <target>どこに行きますか？</target>
+      </trans-unit>
+      <trans-unit id="68">
+        <source>できますか？</source>
+        <target>できますか？</target>
+      </trans-unit>
+      <trans-unit id="69">
+        <source>助けはいりますか？</source>
+        <target>助けはいりますか？</target>
+      </trans-unit>
+      <trans-unit id="70">
+        <source>どのコンテンツをやりますか？</source>
+        <target>どのコンテンツをやりますか？</target>
+      </trans-unit>
+      <trans-unit id="71">
+        <source>どのコンテンツならできますか？</source>
+        <target>どのコンテンツならできますか？</target>
+      </trans-unit>
+      <trans-unit id="72">
+        <source>持っていますか？</source>
+        <target>持っていますか？</target>
+      </trans-unit>
+      <trans-unit id="73">
+        <source>今どんな武器を持っていますか？</source>
+        <target>今どんな武器を持っていますか？</target>
+      </trans-unit>
+      <trans-unit id="74">
+        <source>他にどのクラスができますか？</source>
+        <target>他にどのクラスができますか？</target>
+      </trans-unit>
+      <trans-unit id="75">
+        <source>他にどのロールができますか？</source>
+        <target>他にどのロールができますか？</target>
+      </trans-unit>
+      <trans-unit id="76">
+        <source>セットしていますか？</source>
+        <target>セットしていますか？</target>
+      </trans-unit>
+      <trans-unit id="77">
+        <source>どんな戦術でいきますか？</source>
+        <target>どんな戦術でいきますか？</target>
+      </trans-unit>
+      <trans-unit id="78">
+        <source>フレンドになってくれませんか？</source>
+        <target>フレンドになってくれませんか？</target>
+      </trans-unit>
+      <trans-unit id="79">
+        <source>休憩しませんか？</source>
+        <target>休憩しませんか？</target>
+      </trans-unit>
+      <trans-unit id="80">
+        <source>修理しましょうか？</source>
+        <target>修理しましょうか？</target>
+      </trans-unit>
+      <trans-unit id="81">
+        <source>修理してくれませんか？</source>
+        <target>修理してくれませんか？</target>
+      </trans-unit>
+      <trans-unit id="82">
+        <source>マテリア装着しましょうか？</source>
+        <target>マテリア装着しましょうか？</target>
+      </trans-unit>
+      <trans-unit id="83">
+        <source>マテリア装着してくれませんか？</source>
+        <target>マテリア装着してくれませんか？</target>
+      </trans-unit>
+      <trans-unit id="84">
+        <source>パーティに入りませんか？</source>
+        <target>パーティに入りませんか？</target>
+      </trans-unit>
+      <trans-unit id="85">
+        <source>パーティに入れてくれませんか？</source>
+        <target>パーティに入れてくれませんか？</target>
+      </trans-unit>
+      <trans-unit id="86">
+        <source>パーティを解散しますか？</source>
+        <target>パーティを解散しますか？</target>
+      </trans-unit>
+      <trans-unit id="87">
+        <source>リンクシェルに入りませんか？</source>
+        <target>リンクシェルに入りませんか？</target>
+      </trans-unit>
+      <trans-unit id="88">
+        <source>リンクシェルに入れてくれませんか？</source>
+        <target>リンクシェルに入れてくれませんか？</target>
+      </trans-unit>
+      <trans-unit id="89">
+        <source>フリーカンパニーに入りませんか？</source>
+        <target>フリーカンパニーに入りませんか？</target>
+      </trans-unit>
+      <trans-unit id="90">
+        <source>フリーカンパニーに入れてくれませんか？</source>
+        <target>フリーカンパニーに入れてくれませんか？</target>
+      </trans-unit>
+      <trans-unit id="91">
+        <source>何をしていますか？</source>
+        <target>何をしていますか？</target>
+      </trans-unit>
+      <trans-unit id="92">
+        <source>カード対戦しませんか？</source>
+        <target>カード対戦しませんか？</target>
+      </trans-unit>
+      <trans-unit id="93">
+        <source>ルールを変えませんか？</source>
+        <target>ルールを変えませんか？</target>
+      </trans-unit>
+      <trans-unit id="94">
+        <source>大会の対戦をしませんか？</source>
+        <target>大会の対戦をしませんか？</target>
+      </trans-unit>
+      <trans-unit id="95">
+        <source>MPは大丈夫ですか？</source>
+        <target>MPは大丈夫ですか？</target>
+      </trans-unit>
+      <trans-unit id="96">
+        <source>わからないことはありますか？</source>
+        <target>わからないことはありますか？</target>
+      </trans-unit>
+      <trans-unit id="97">
+        <source>見ましたか？</source>
+        <target>見ましたか？</target>
+      </trans-unit>
+      <trans-unit id="98">
+        <source>攻略方法はわかりますか？</source>
+        <target>攻略方法はわかりますか？</target>
+      </trans-unit>
+      <trans-unit id="99">
+        <source>作戦を立てませんか？</source>
+        <target>作戦を立てませんか？</target>
+      </trans-unit>
+      <trans-unit id="100">
+        <source>相乗りしませんか？</source>
+        <target>相乗りしませんか？</target>
+      </trans-unit>
+      <trans-unit id="101">
+        <source>相乗りさせてくれませんか？</source>
+        <target>相乗りさせてくれませんか？</target>
+      </trans-unit>
+      <trans-unit id="102">
+        <source>答え</source>
+        <target>答え</target>
+      </trans-unit>
+      <trans-unit id="103">
+        <source>わかりません。</source>
+        <target>わかりません。</target>
+      </trans-unit>
+      <trans-unit id="104">
+        <source>いりません。</source>
+        <target>いりません。</target>
+      </trans-unit>
+      <trans-unit id="105">
+        <source>はい。お願いします。</source>
+        <target>はい。お願いします。</target>
+      </trans-unit>
+      <trans-unit id="106">
+        <source>お願いします。</source>
+        <target>お願いします。</target>
+      </trans-unit>
+      <trans-unit id="107">
+        <source>わかりました。</source>
+        <target>わかりました。</target>
+      </trans-unit>
+      <trans-unit id="108">
+        <source>今忙しいので、後にしてください。</source>
+        <target>今忙しいので、後にしてください。</target>
+      </trans-unit>
+      <trans-unit id="109">
+        <source>今は独りで行動したいんです。</source>
+        <target>今は独りで行動したいんです。</target>
+      </trans-unit>
+      <trans-unit id="110">
+        <source>答えたいけど表現がわかりません。</source>
+        <target>答えたいけど表現がわかりません。</target>
+      </trans-unit>
+      <trans-unit id="111">
+        <source>なるほど。</source>
+        <target>なるほど。</target>
+      </trans-unit>
+      <trans-unit id="112">
+        <source>せっかくだけど遠慮します。</source>
+        <target>せっかくだけど遠慮します。</target>
+      </trans-unit>
+      <trans-unit id="113">
+        <source>へぇー。</source>
+        <target>へぇー。</target>
+      </trans-unit>
+      <trans-unit id="114">
+        <source>えーっと…</source>
+        <target>えーっと…</target>
+      </trans-unit>
+      <trans-unit id="115">
+        <source>えっ！？</source>
+        <target>えっ！？</target>
+      </trans-unit>
+      <trans-unit id="116">
+        <source>本当に？</source>
+        <target>本当に？</target>
+      </trans-unit>
+      <trans-unit id="117">
+        <source>むむむ。</source>
+        <target>むむむ。</target>
+      </trans-unit>
+      <trans-unit id="118">
+        <source>もうすぐ別の予定があるんです。</source>
+        <target>もうすぐ別の予定があるんです。</target>
+      </trans-unit>
+      <trans-unit id="119">
+        <source>再戦を希望します。</source>
+        <target>再戦を希望します。</target>
+      </trans-unit>
+      <trans-unit id="120">
+        <source>対戦を終わりにしましょう。</source>
+        <target>対戦を終わりにしましょう。</target>
+      </trans-unit>
+      <trans-unit id="121">
+        <source>一時中断させてください。</source>
+        <target>一時中断させてください。</target>
+      </trans-unit>
+      <trans-unit id="122">
+        <source>そうかもしれません。</source>
+        <target>そうかもしれません。</target>
+      </trans-unit>
+      <trans-unit id="123">
+        <source>理由</source>
+        <target>理由</target>
+      </trans-unit>
+      <trans-unit id="124">
+        <source>詠唱中です。</source>
+        <target>詠唱中です。</target>
+      </trans-unit>
+      <trans-unit id="125">
+        <source>仕事の時間です。</source>
+        <target>仕事の時間です。</target>
+      </trans-unit>
+      <trans-unit id="126">
+        <source>約束があるんです。</source>
+        <target>約束があるんです。</target>
+      </trans-unit>
+      <trans-unit id="127">
+        <source>眠くなりました。</source>
+        <target>眠くなりました。</target>
+      </trans-unit>
+      <trans-unit id="128">
+        <source>疲れました。</source>
+        <target>疲れました。</target>
+      </trans-unit>
+      <trans-unit id="129">
+        <source>用事があるので、これで。</source>
+        <target>用事があるので、これで。</target>
+      </trans-unit>
+      <trans-unit id="130">
+        <source>体調が悪いんです。</source>
+        <target>体調が悪いんです。</target>
+      </trans-unit>
+      <trans-unit id="131">
+        <source>気が向きません。</source>
+        <target>気が向きません。</target>
+      </trans-unit>
+      <trans-unit id="132">
+        <source>興味があります。</source>
+        <target>興味があります。</target>
+      </trans-unit>
+      <trans-unit id="133">
+        <source>コンテンツ中なんです。</source>
+        <target>コンテンツ中なんです。</target>
+      </trans-unit>
+      <trans-unit id="134">
+        <source>戦闘中なんです。</source>
+        <target>戦闘中なんです。</target>
+      </trans-unit>
+      <trans-unit id="135">
+        <source>お金を稼ぎたいです。</source>
+        <target>お金を稼ぎたいです。</target>
+      </trans-unit>
+      <trans-unit id="136">
+        <source>覚えてないんです。</source>
+        <target>覚えてないんです。</target>
+      </trans-unit>
+      <trans-unit id="137">
+        <source>知らないんです。</source>
+        <target>知らないんです。</target>
+      </trans-unit>
+      <trans-unit id="138">
+        <source>使ったばかりです。</source>
+        <target>使ったばかりです。</target>
+      </trans-unit>
+      <trans-unit id="139">
+        <source>経験値が欲しいです。</source>
+        <target>経験値が欲しいです。</target>
+      </trans-unit>
+      <trans-unit id="140">
+        <source>間違えました。</source>
+        <target>間違えました。</target>
+      </trans-unit>
+      <trans-unit id="141">
+        <source>すでに誘われています。</source>
+        <target>すでに誘われています。</target>
+      </trans-unit>
+      <trans-unit id="142">
+        <source>すでに持っています。</source>
+        <target>すでに持っています。</target>
+      </trans-unit>
+      <trans-unit id="143">
+        <source>募集が終わりました。</source>
+        <target>募集が終わりました。</target>
+      </trans-unit>
+      <trans-unit id="144">
+        <source>準備をしています。</source>
+        <target>準備をしています。</target>
+      </trans-unit>
+      <trans-unit id="145">
+        <source>手が離せません。</source>
+        <target>手が離せません。</target>
+      </trans-unit>
+      <trans-unit id="146">
+        <source>雑談をしています。</source>
+        <target>雑談をしています。</target>
+      </trans-unit>
+      <trans-unit id="147">
+        <source>キーボードを使っていません。</source>
+        <target>キーボードを使っていません。</target>
+      </trans-unit>
+      <trans-unit id="148">
+        <source>探索中です。</source>
+        <target>探索中です。</target>
+      </trans-unit>
+      <trans-unit id="149">
+        <source>トレード</source>
+        <target>トレード</target>
+      </trans-unit>
+      <trans-unit id="150">
+        <source>くれませんか？</source>
+        <target>くれませんか？</target>
+      </trans-unit>
+      <trans-unit id="151">
+        <source>してくれませんか？</source>
+        <target>してくれませんか？</target>
+      </trans-unit>
+      <trans-unit id="152">
+        <source>安くしてくれませんか？</source>
+        <target>安くしてくれませんか？</target>
+      </trans-unit>
+      <trans-unit id="153">
+        <source>買ってくれませんか？</source>
+        <target>買ってくれませんか？</target>
+      </trans-unit>
+      <trans-unit id="154">
+        <source>売ってくれませんか？</source>
+        <target>売ってくれませんか？</target>
+      </trans-unit>
+      <trans-unit id="155">
+        <source>トレードしませんか？</source>
+        <target>トレードしませんか？</target>
+      </trans-unit>
+      <trans-unit id="156">
+        <source>いりませんか？</source>
+        <target>いりませんか？</target>
+      </trans-unit>
+      <trans-unit id="157">
+        <source>製作できませんか？</source>
+        <target>製作できませんか？</target>
+      </trans-unit>
+      <trans-unit id="158">
+        <source>持っていませんか？</source>
+        <target>持っていませんか？</target>
+      </trans-unit>
+      <trans-unit id="159">
+        <source>必要な素材は何ですか？</source>
+        <target>必要な素材は何ですか？</target>
+      </trans-unit>
+      <trans-unit id="160">
+        <source>お金がありません。</source>
+        <target>お金がありません。</target>
+      </trans-unit>
+      <trans-unit id="161">
+        <source>アイテムがありません。</source>
+        <target>アイテムがありません。</target>
+      </trans-unit>
+      <trans-unit id="162">
+        <source>あなたにあげられる物はなさそうです。</source>
+        <target>あなたにあげられる物はなさそうです。</target>
+      </trans-unit>
+      <trans-unit id="163">
+        <source>これをあなたにあげましょう。</source>
+        <target>これをあなたにあげましょう。</target>
+      </trans-unit>
+      <trans-unit id="164">
+        <source>ください。</source>
+        <target>ください。</target>
+      </trans-unit>
+      <trans-unit id="165">
+        <source>報酬：</source>
+        <target>報酬：</target>
+      </trans-unit>
+      <trans-unit id="166">
+        <source>値段：</source>
+        <target>値段：</target>
+      </trans-unit>
+      <trans-unit id="167">
+        <source>お届け物</source>
+        <target>お届け物</target>
+      </trans-unit>
+      <trans-unit id="168">
+        <source>編成</source>
+        <target>編成</target>
+      </trans-unit>
+      <trans-unit id="169">
+        <source>募集中です。</source>
+        <target>募集中です。</target>
+      </trans-unit>
+      <trans-unit id="170">
+        <source>集まってください。</source>
+        <target>集まってください。</target>
+      </trans-unit>
+      <trans-unit id="171">
+        <source>一緒にやりませんか？</source>
+        <target>一緒にやりませんか？</target>
+      </trans-unit>
+      <trans-unit id="172">
+        <source>1人ですか？</source>
+        <target>1人ですか？</target>
+      </trans-unit>
+      <trans-unit id="173">
+        <source>空きはありますか？</source>
+        <target>空きはありますか？</target>
+      </trans-unit>
+      <trans-unit id="174">
+        <source>誘ってください。</source>
+        <target>誘ってください。</target>
+      </trans-unit>
+      <trans-unit id="175">
+        <source>入れてください。</source>
+        <target>入れてください。</target>
+      </trans-unit>
+      <trans-unit id="176">
+        <source>リーダーは誰ですか？</source>
+        <target>リーダーは誰ですか？</target>
+      </trans-unit>
+      <trans-unit id="177">
+        <source>短時間でもいいんですが。</source>
+        <target>短時間でもいいんですが。</target>
+      </trans-unit>
+      <trans-unit id="178">
+        <source>フルパーティなんです。</source>
+        <target>フルパーティなんです。</target>
+      </trans-unit>
+      <trans-unit id="179">
+        <source>手伝ってください。</source>
+        <target>手伝ってください。</target>
+      </trans-unit>
+      <trans-unit id="180">
+        <source>パーティを解散します。</source>
+        <target>パーティを解散します。</target>
+      </trans-unit>
+      <trans-unit id="181">
+        <source>席を外します。</source>
+        <target>席を外します。</target>
+      </trans-unit>
+      <trans-unit id="182">
+        <source>パーティ参加を希望します。</source>
+        <target>パーティ参加を希望します。</target>
+      </trans-unit>
+      <trans-unit id="183">
+        <source>ライトパーティ</source>
+        <target>ライトパーティ</target>
+      </trans-unit>
+      <trans-unit id="184">
+        <source>フルパーティ</source>
+        <target>フルパーティ</target>
+      </trans-unit>
+      <trans-unit id="185">
+        <source>不慣れです。</source>
+        <target>不慣れです。</target>
+      </trans-unit>
+      <trans-unit id="186">
+        <source>パーティメンバーの補充をしませんか？</source>
+        <target>パーティメンバーの補充をしませんか？</target>
+      </trans-unit>
+      <trans-unit id="187">
+        <source>戦術</source>
+        <target>戦術</target>
+      </trans-unit>
+      <trans-unit id="188">
+        <source>ついてきてください。</source>
+        <target>ついてきてください。</target>
+      </trans-unit>
+      <trans-unit id="189">
+        <source>ついていきます。</source>
+        <target>ついていきます。</target>
+      </trans-unit>
+      <trans-unit id="190">
+        <source>調べてみてください。</source>
+        <target>調べてみてください。</target>
+      </trans-unit>
+      <trans-unit id="191">
+        <source>見つけました！</source>
+        <target>見つけました！</target>
+      </trans-unit>
+      <trans-unit id="192">
+        <source>全力で攻撃してください！</source>
+        <target>全力で攻撃してください！</target>
+      </trans-unit>
+      <trans-unit id="193">
+        <source>少し下がって。</source>
+        <target>少し下がって。</target>
+      </trans-unit>
+      <trans-unit id="194">
+        <source>敵視に注意してください。</source>
+        <target>敵視に注意してください。</target>
+      </trans-unit>
+      <trans-unit id="195">
+        <source>これを先にやっつけて！</source>
+        <target>これを先にやっつけて！</target>
+      </trans-unit>
+      <trans-unit id="196">
+        <source>攻撃しないでください。</source>
+        <target>攻撃しないでください。</target>
+      </trans-unit>
+      <trans-unit id="197">
+        <source>足止めしてください！</source>
+        <target>足止めしてください！</target>
+      </trans-unit>
+      <trans-unit id="198">
+        <source>無効化してください！</source>
+        <target>無効化してください！</target>
+      </trans-unit>
+      <trans-unit id="199">
+        <source>回復してください！</source>
+        <target>回復してください！</target>
+      </trans-unit>
+      <trans-unit id="200">
+        <source>掛けてください！</source>
+        <target>掛けてください！</target>
+      </trans-unit>
+      <trans-unit id="201">
+        <source>逃げて！</source>
+        <target>逃げて！</target>
+      </trans-unit>
+      <trans-unit id="202">
+        <source>助けて！</source>
+        <target>助けて！</target>
+      </trans-unit>
+      <trans-unit id="203">
+        <source>止まって！</source>
+        <target>止まって！</target>
+      </trans-unit>
+      <trans-unit id="204">
+        <source>待機します。</source>
+        <target>待機します。</target>
+      </trans-unit>
+      <trans-unit id="205">
+        <source>なくなりました。</source>
+        <target>なくなりました。</target>
+      </trans-unit>
+      <trans-unit id="206">
+        <source>ありません。</source>
+        <target>ありません。</target>
+      </trans-unit>
+      <trans-unit id="207">
+        <source>節約してください。</source>
+        <target>節約してください。</target>
+      </trans-unit>
+      <trans-unit id="208">
+        <source>節約します。</source>
+        <target>節約します。</target>
+      </trans-unit>
+      <trans-unit id="209">
+        <source>装備品の耐久度が下がってきました。</source>
+        <target>装備品の耐久度が下がってきました。</target>
+      </trans-unit>
+      <trans-unit id="210">
+        <source>準備完了！</source>
+        <target>準備完了！</target>
+      </trans-unit>
+      <trans-unit id="211">
+        <source>マーカーを設定してください。</source>
+        <target>マーカーを設定してください。</target>
+      </trans-unit>
+      <trans-unit id="212">
+        <source>使ってください。</source>
+        <target>使ってください。</target>
+      </trans-unit>
+      <trans-unit id="213">
+        <source>休憩しましょう。</source>
+        <target>休憩しましょう。</target>
+      </trans-unit>
+      <trans-unit id="214">
+        <source>敵を連れてきます。</source>
+        <target>敵を連れてきます。</target>
+      </trans-unit>
+      <trans-unit id="215">
+        <source>敵を引きつけます。</source>
+        <target>敵を引きつけます。</target>
+      </trans-unit>
+      <trans-unit id="216">
+        <source>待ってください。</source>
+        <target>待ってください。</target>
+      </trans-unit>
+      <trans-unit id="217">
+        <source>現地に集合しましょう。</source>
+        <target>現地に集合しましょう。</target>
+      </trans-unit>
+      <trans-unit id="218">
+        <source>移動しましょう。</source>
+        <target>移動しましょう。</target>
+      </trans-unit>
+      <trans-unit id="219">
+        <source>そこにいてください。</source>
+        <target>そこにいてください。</target>
+      </trans-unit>
+      <trans-unit id="220">
+        <source>これから向かいます。</source>
+        <target>これから向かいます。</target>
+      </trans-unit>
+      <trans-unit id="221">
+        <source>すぐ戻ります。</source>
+        <target>すぐ戻ります。</target>
+      </trans-unit>
+      <trans-unit id="222">
+        <source>ロットしてください。</source>
+        <target>ロットしてください。</target>
+      </trans-unit>
+      <trans-unit id="223">
+        <source>弱点：</source>
+        <target>弱点：</target>
+      </trans-unit>
+      <trans-unit id="224">
+        <source>注意：</source>
+        <target>注意：</target>
+      </trans-unit>
+      <trans-unit id="225">
+        <source>おすすめ：</source>
+        <target>おすすめ：</target>
+      </trans-unit>
+      <trans-unit id="226">
+        <source>討伐順：</source>
+        <target>討伐順：</target>
+      </trans-unit>
+      <trans-unit id="227">
+        <source>欲しいもの：</source>
+        <target>欲しいもの：</target>
+      </trans-unit>
+      <trans-unit id="228">
+        <source>敵視を稼いでください。</source>
+        <target>敵視を稼いでください。</target>
+      </trans-unit>
+      <trans-unit id="229">
+        <source>敵が近づいてます！</source>
+        <target>敵が近づいてます！</target>
+      </trans-unit>
+      <trans-unit id="230">
+        <source>気にしないでください。</source>
+        <target>気にしないでください。</target>
+      </trans-unit>
+      <trans-unit id="231">
+        <source>無視してください。</source>
+        <target>無視してください。</target>
+      </trans-unit>
+      <trans-unit id="232">
+        <source>スイッチ</source>
+        <target>スイッチ</target>
+      </trans-unit>
+      <trans-unit id="233">
+        <source>交代してください！</source>
+        <target>交代してください！</target>
+      </trans-unit>
+      <trans-unit id="234">
+        <source>私が最初に攻撃します！</source>
+        <target>私が最初に攻撃します！</target>
+      </trans-unit>
+      <trans-unit id="235">
+        <source>ゆっくり進みましょう。</source>
+        <target>ゆっくり進みましょう。</target>
+      </trans-unit>
+      <trans-unit id="236">
+        <source>実行してください！</source>
+        <target>実行してください！</target>
+      </trans-unit>
+      <trans-unit id="237">
+        <source>方向：</source>
+        <target>方向：</target>
+      </trans-unit>
+      <trans-unit id="238">
+        <source>回避してください！</source>
+        <target>回避してください！</target>
+      </trans-unit>
+      <trans-unit id="239">
+        <source>後ろを向いてください。</source>
+        <target>後ろを向いてください。</target>
+      </trans-unit>
+      <trans-unit id="240">
+        <source>ダメージを受けてください。</source>
+        <target>ダメージを受けてください。</target>
+      </trans-unit>
+      <trans-unit id="241">
+        <source>敵を離してください。</source>
+        <target>敵を離してください。</target>
+      </trans-unit>
+      <trans-unit id="242">
+        <source>離れてください。</source>
+        <target>離れてください。</target>
+      </trans-unit>
+      <trans-unit id="243">
+        <source>近づいてください。</source>
+        <target>近づいてください。</target>
+      </trans-unit>
+      <trans-unit id="244">
+        <source>運んでください。</source>
+        <target>運んでください。</target>
+      </trans-unit>
+      <trans-unit id="245">
+        <source>切断してください！</source>
+        <target>切断してください！</target>
+      </trans-unit>
+      <trans-unit id="246">
+        <source>維持してください！</source>
+        <target>維持してください！</target>
+      </trans-unit>
+      <trans-unit id="247">
+        <source>同時に倒しましょう！</source>
+        <target>同時に倒しましょう！</target>
+      </trans-unit>
+      <trans-unit id="248">
+        <source>隠れて！</source>
+        <target>隠れて！</target>
+      </trans-unit>
+      <trans-unit id="249">
+        <source>搭乗します！</source>
+        <target>搭乗します！</target>
+      </trans-unit>
+      <trans-unit id="250">
+        <source>搭乗してください！</source>
+        <target>搭乗してください！</target>
+      </trans-unit>
+      <trans-unit id="251">
+        <source>役割</source>
+        <target>役割</target>
+      </trans-unit>
+      <trans-unit id="252">
+        <source>リーダー</source>
+        <target>リーダー</target>
+      </trans-unit>
+      <trans-unit id="253">
+        <source>マスター</source>
+        <target>マスター</target>
+      </trans-unit>
+      <trans-unit id="254">
+        <source>ファイター</source>
+        <target>ファイター</target>
+      </trans-unit>
+      <trans-unit id="255">
+        <source>ソーサラー</source>
+        <target>ソーサラー</target>
+      </trans-unit>
+      <trans-unit id="256">
+        <source>ギャザラー</source>
+        <target>ギャザラー</target>
+      </trans-unit>
+      <trans-unit id="257">
+        <source>クラフター</source>
+        <target>クラフター</target>
+      </trans-unit>
+      <trans-unit id="258">
+        <source>タンク</source>
+        <target>タンク</target>
+      </trans-unit>
+      <trans-unit id="259">
+        <source>近接攻撃役</source>
+        <target>近接攻撃役</target>
+      </trans-unit>
+      <trans-unit id="260">
+        <source>遠隔攻撃役</source>
+        <target>遠隔攻撃役</target>
+      </trans-unit>
+      <trans-unit id="261">
+        <source>ヒーラー</source>
+        <target>ヒーラー</target>
+      </trans-unit>
+      <trans-unit id="262">
+        <source>強化役</source>
+        <target>強化役</target>
+      </trans-unit>
+      <trans-unit id="263">
+        <source>魔法攻撃役</source>
+        <target>魔法攻撃役</target>
+      </trans-unit>
+      <trans-unit id="264">
+        <source>DPS</source>
+        <target>DPS</target>
+      </trans-unit>
+      <trans-unit id="265">
+        <source>位置</source>
+        <target>位置</target>
+      </trans-unit>
+      <trans-unit id="266">
+        <source>北</source>
+        <target>北</target>
+      </trans-unit>
+      <trans-unit id="267">
+        <source>南</source>
+        <target>南</target>
+      </trans-unit>
+      <trans-unit id="268">
+        <source>東</source>
+        <target>東</target>
+      </trans-unit>
+      <trans-unit id="269">
+        <source>西</source>
+        <target>西</target>
+      </trans-unit>
+      <trans-unit id="270">
+        <source>上</source>
+        <target>上</target>
+      </trans-unit>
+      <trans-unit id="271">
+        <source>下</source>
+        <target>下</target>
+      </trans-unit>
+      <trans-unit id="272">
+        <source>右</source>
+        <target>右</target>
+      </trans-unit>
+      <trans-unit id="273">
+        <source>左</source>
+        <target>左</target>
+      </trans-unit>
+      <trans-unit id="274">
+        <source>表</source>
+        <target>表</target>
+      </trans-unit>
+      <trans-unit id="275">
+        <source>裏</source>
+        <target>裏</target>
+      </trans-unit>
+      <trans-unit id="276">
+        <source>横</source>
+        <target>横</target>
+      </trans-unit>
+      <trans-unit id="277">
+        <source>正面</source>
+        <target>正面</target>
+      </trans-unit>
+      <trans-unit id="278">
+        <source>中央</source>
+        <target>中央</target>
+      </trans-unit>
+      <trans-unit id="279">
+        <source>側面</source>
+        <target>側面</target>
+      </trans-unit>
+      <trans-unit id="280">
+        <source>内側</source>
+        <target>内側</target>
+      </trans-unit>
+      <trans-unit id="281">
+        <source>外側</source>
+        <target>外側</target>
+      </trans-unit>
+      <trans-unit id="282">
+        <source>こっち</source>
+        <target>こっち</target>
+      </trans-unit>
+      <trans-unit id="283">
+        <source>あっち</source>
+        <target>あっち</target>
+      </trans-unit>
+      <trans-unit id="284">
+        <source>そっち</source>
+        <target>そっち</target>
+      </trans-unit>
+      <trans-unit id="285">
+        <source>もっと近く</source>
+        <target>もっと近く</target>
+      </trans-unit>
+      <trans-unit id="286">
+        <source>もっと遠く</source>
+        <target>もっと遠く</target>
+      </trans-unit>
+      <trans-unit id="287">
+        <source>入口</source>
+        <target>入口</target>
+      </trans-unit>
+      <trans-unit id="288">
+        <source>出口</source>
+        <target>出口</target>
+      </trans-unit>
+      <trans-unit id="289">
+        <source>背面</source>
+        <target>背面</target>
+      </trans-unit>
+      <trans-unit id="290">
+        <source>1時</source>
+        <target>1時</target>
+      </trans-unit>
+      <trans-unit id="291">
+        <source>2時</source>
+        <target>2時</target>
+      </trans-unit>
+      <trans-unit id="292">
+        <source>3時</source>
+        <target>3時</target>
+      </trans-unit>
+      <trans-unit id="293">
+        <source>4時</source>
+        <target>4時</target>
+      </trans-unit>
+      <trans-unit id="294">
+        <source>5時</source>
+        <target>5時</target>
+      </trans-unit>
+      <trans-unit id="295">
+        <source>6時</source>
+        <target>6時</target>
+      </trans-unit>
+      <trans-unit id="296">
+        <source>7時</source>
+        <target>7時</target>
+      </trans-unit>
+      <trans-unit id="297">
+        <source>8時</source>
+        <target>8時</target>
+      </trans-unit>
+      <trans-unit id="298">
+        <source>9時</source>
+        <target>9時</target>
+      </trans-unit>
+      <trans-unit id="299">
+        <source>10時</source>
+        <target>10時</target>
+      </trans-unit>
+      <trans-unit id="300">
+        <source>11時</source>
+        <target>11時</target>
+      </trans-unit>
+      <trans-unit id="301">
+        <source>12時</source>
+        <target>12時</target>
+      </trans-unit>
+      <trans-unit id="302">
+        <source>時間</source>
+        <target>時間</target>
+      </trans-unit>
+      <trans-unit id="303">
+        <source>おととい</source>
+        <target>おととい</target>
+      </trans-unit>
+      <trans-unit id="304">
+        <source>昨日</source>
+        <target>昨日</target>
+      </trans-unit>
+      <trans-unit id="305">
+        <source>今日</source>
+        <target>今日</target>
+      </trans-unit>
+      <trans-unit id="306">
+        <source>明日</source>
+        <target>明日</target>
+      </trans-unit>
+      <trans-unit id="307">
+        <source>あさって</source>
+        <target>あさって</target>
+      </trans-unit>
+      <trans-unit id="308">
+        <source>先週</source>
+        <target>先週</target>
+      </trans-unit>
+      <trans-unit id="309">
+        <source>今週</source>
+        <target>今週</target>
+      </trans-unit>
+      <trans-unit id="310">
+        <source>来週</source>
+        <target>来週</target>
+      </trans-unit>
+      <trans-unit id="311">
+        <source>午前</source>
+        <target>午前</target>
+      </trans-unit>
+      <trans-unit id="312">
+        <source>午後</source>
+        <target>午後</target>
+      </trans-unit>
+      <trans-unit id="313">
+        <source>朝</source>
+        <target>朝</target>
+      </trans-unit>
+      <trans-unit id="314">
+        <source>昼</source>
+        <target>昼</target>
+      </trans-unit>
+      <trans-unit id="315">
+        <source>夜</source>
+        <target>夜</target>
+      </trans-unit>
+      <trans-unit id="316">
+        <source>曜日</source>
+        <target>曜日</target>
+      </trans-unit>
+      <trans-unit id="317">
+        <source>日曜日</source>
+        <target>日曜日</target>
+      </trans-unit>
+      <trans-unit id="318">
+        <source>月曜日</source>
+        <target>月曜日</target>
+      </trans-unit>
+      <trans-unit id="319">
+        <source>火曜日</source>
+        <target>火曜日</target>
+      </trans-unit>
+      <trans-unit id="320">
+        <source>水曜日</source>
+        <target>水曜日</target>
+      </trans-unit>
+      <trans-unit id="321">
+        <source>木曜日</source>
+        <target>木曜日</target>
+      </trans-unit>
+      <trans-unit id="322">
+        <source>金曜日</source>
+        <target>金曜日</target>
+      </trans-unit>
+      <trans-unit id="323">
+        <source>土曜日</source>
+        <target>土曜日</target>
+      </trans-unit>
+      <trans-unit id="324">
+        <source>休日</source>
+        <target>休日</target>
+      </trans-unit>
+      <trans-unit id="325">
+        <source>休み</source>
+        <target>休み</target>
+      </trans-unit>
+      <trans-unit id="326">
+        <source>長期</source>
+        <target>長期</target>
+      </trans-unit>
+      <trans-unit id="327">
+        <source>短期</source>
+        <target>短期</target>
+      </trans-unit>
+      <trans-unit id="328">
+        <source>日付</source>
+        <target>日付</target>
+      </trans-unit>
+      <trans-unit id="329">
+        <source>秒</source>
+        <target>秒</target>
+      </trans-unit>
+      <trans-unit id="330">
+        <source>分</source>
+        <target>分</target>
+      </trans-unit>
+      <trans-unit id="331">
+        <source>時間</source>
+        <target>時間</target>
+      </trans-unit>
+      <trans-unit id="332">
+        <source>月</source>
+        <target>月</target>
+      </trans-unit>
+      <trans-unit id="333">
+        <source>年</source>
+        <target>年</target>
+      </trans-unit>
+      <trans-unit id="334">
+        <source>1月</source>
+        <target>1月</target>
+      </trans-unit>
+      <trans-unit id="335">
+        <source>2月</source>
+        <target>2月</target>
+      </trans-unit>
+      <trans-unit id="336">
+        <source>3月</source>
+        <target>3月</target>
+      </trans-unit>
+      <trans-unit id="337">
+        <source>4月</source>
+        <target>4月</target>
+      </trans-unit>
+      <trans-unit id="338">
+        <source>5月</source>
+        <target>5月</target>
+      </trans-unit>
+      <trans-unit id="339">
+        <source>6月</source>
+        <target>6月</target>
+      </trans-unit>
+      <trans-unit id="340">
+        <source>7月</source>
+        <target>7月</target>
+      </trans-unit>
+      <trans-unit id="341">
+        <source>8月</source>
+        <target>8月</target>
+      </trans-unit>
+      <trans-unit id="342">
+        <source>9月</source>
+        <target>9月</target>
+      </trans-unit>
+      <trans-unit id="343">
+        <source>10月</source>
+        <target>10月</target>
+      </trans-unit>
+      <trans-unit id="344">
+        <source>11月</source>
+        <target>11月</target>
+      </trans-unit>
+      <trans-unit id="345">
+        <source>12月</source>
+        <target>12月</target>
+      </trans-unit>
+      <trans-unit id="346">
+        <source>先月</source>
+        <target>先月</target>
+      </trans-unit>
+      <trans-unit id="347">
+        <source>今月</source>
+        <target>今月</target>
+      </trans-unit>
+      <trans-unit id="348">
+        <source>来月</source>
+        <target>来月</target>
+      </trans-unit>
+      <trans-unit id="349">
+        <source>去年</source>
+        <target>去年</target>
+      </trans-unit>
+      <trans-unit id="350">
+        <source>今年</source>
+        <target>今年</target>
+      </trans-unit>
+      <trans-unit id="351">
+        <source>来年</source>
+        <target>来年</target>
+      </trans-unit>
+      <trans-unit id="352">
+        <source>今</source>
+        <target>今</target>
+      </trans-unit>
+      <trans-unit id="353">
+        <source>もうすぐ</source>
+        <target>もうすぐ</target>
+      </trans-unit>
+      <trans-unit id="354">
+        <source>いつでも</source>
+        <target>いつでも</target>
+      </trans-unit>
+      <trans-unit id="355">
+        <source>最初</source>
+        <target>最初</target>
+      </trans-unit>
+      <trans-unit id="356">
+        <source>最後</source>
+        <target>最後</target>
+      </trans-unit>
+      <trans-unit id="357">
+        <source>待ち時間</source>
+        <target>待ち時間</target>
+      </trans-unit>
+      <trans-unit id="358">
+        <source>残り時間</source>
+        <target>残り時間</target>
+      </trans-unit>
+      <trans-unit id="359">
+        <source>終了時間</source>
+        <target>終了時間</target>
+      </trans-unit>
+      <trans-unit id="360">
+        <source>第六星暦</source>
+        <target>第六星暦</target>
+      </trans-unit>
+      <trans-unit id="361">
+        <source>第七霊災</source>
+        <target>第七霊災</target>
+      </trans-unit>
+      <trans-unit id="362">
+        <source>第七星暦</source>
+        <target>第七星暦</target>
+      </trans-unit>
+      <trans-unit id="363">
+        <source>直前</source>
+        <target>直前</target>
+      </trans-unit>
+      <trans-unit id="364">
+        <source>直後</source>
+        <target>直後</target>
+      </trans-unit>
+      <trans-unit id="365">
+        <source>移動方法</source>
+        <target>移動方法</target>
+      </trans-unit>
+      <trans-unit id="366">
+        <source>歩く</source>
+        <target>歩く</target>
+      </trans-unit>
+      <trans-unit id="367">
+        <source>走る</source>
+        <target>走る</target>
+      </trans-unit>
+      <trans-unit id="368">
+        <source>追従</source>
+        <target>追従</target>
+      </trans-unit>
+      <trans-unit id="369">
+        <source>チョコボ</source>
+        <target>チョコボ</target>
+      </trans-unit>
+      <trans-unit id="370">
+        <source>マイチョコボ</source>
+        <target>マイチョコボ</target>
+      </trans-unit>
+      <trans-unit id="371">
+        <source>レンタルチョコボ</source>
+        <target>レンタルチョコボ</target>
+      </trans-unit>
+      <trans-unit id="372">
+        <source>チョコボポーター</source>
+        <target>チョコボポーター</target>
+      </trans-unit>
+      <trans-unit id="373">
+        <source>マウント</source>
+        <target>マウント</target>
+      </trans-unit>
+      <trans-unit id="374">
+        <source>テレポ</source>
+        <target>テレポ</target>
+      </trans-unit>
+      <trans-unit id="375">
+        <source>デジョン</source>
+        <target>デジョン</target>
+      </trans-unit>
+      <trans-unit id="376">
+        <source>都市転送網</source>
+        <target>都市転送網</target>
+      </trans-unit>
+      <trans-unit id="377">
+        <source>飛空艇</source>
+        <target>飛空艇</target>
+      </trans-unit>
+      <trans-unit id="378">
+        <source>ホームポイント</source>
+        <target>ホームポイント</target>
+      </trans-unit>
+      <trans-unit id="379">
+        <source>定期船</source>
+        <target>定期船</target>
+      </trans-unit>
+      <trans-unit id="380">
+        <source>フライングマウント</source>
+        <target>フライングマウント</target>
+      </trans-unit>
+      <trans-unit id="381">
+        <source>施設</source>
+        <target>施設</target>
+      </trans-unit>
+      <trans-unit id="382">
+        <source>エーテライト</source>
+        <target>エーテライト</target>
+      </trans-unit>
+      <trans-unit id="383">
+        <source>都市転送網</source>
+        <target>都市転送網</target>
+      </trans-unit>
+      <trans-unit id="384">
+        <source>冒険者ギルド</source>
+        <target>冒険者ギルド</target>
+      </trans-unit>
+      <trans-unit id="385">
+        <source>ギルド</source>
+        <target>ギルド</target>
+      </trans-unit>
+      <trans-unit id="386">
+        <source>ショップ</source>
+        <target>ショップ</target>
+      </trans-unit>
+      <trans-unit id="387">
+        <source>チョコボ留</source>
+        <target>チョコボ留</target>
+      </trans-unit>
+      <trans-unit id="388">
+        <source>宿屋</source>
+        <target>宿屋</target>
+      </trans-unit>
+      <trans-unit id="389">
+        <source>呼び鈴</source>
+        <target>呼び鈴</target>
+      </trans-unit>
+      <trans-unit id="390">
+        <source>レストエリア</source>
+        <target>レストエリア</target>
+      </trans-unit>
+      <trans-unit id="391">
+        <source>ギルドリーヴ発行窓口</source>
+        <target>ギルドリーヴ発行窓口</target>
+      </trans-unit>
+      <trans-unit id="392">
+        <source>リンクシェル発行窓口</source>
+        <target>リンクシェル発行窓口</target>
+      </trans-unit>
+      <trans-unit id="393">
+        <source>マーケットボード</source>
+        <target>マーケットボード</target>
+      </trans-unit>
+      <trans-unit id="394">
+        <source>リテイナー雇用窓口</source>
+        <target>リテイナー雇用窓口</target>
+      </trans-unit>
+      <trans-unit id="395">
+        <source>修理屋</source>
+        <target>修理屋</target>
+      </trans-unit>
+      <trans-unit id="396">
+        <source>ランディング</source>
+        <target>ランディング</target>
+      </trans-unit>
+      <trans-unit id="397">
+        <source>レターモーグリ</source>
+        <target>レターモーグリ</target>
+      </trans-unit>
+      <trans-unit id="398">
+        <source>船着場</source>
+        <target>船着場</target>
+      </trans-unit>
+      <trans-unit id="399">
+        <source>フェリードック</source>
+        <target>フェリードック</target>
+      </trans-unit>
+      <trans-unit id="400">
+        <source>発着場</source>
+        <target>発着場</target>
+      </trans-unit>
+      <trans-unit id="401">
+        <source>黒渦団：軍令部</source>
+        <target>黒渦団：軍令部</target>
+      </trans-unit>
+      <trans-unit id="402">
+        <source>双蛇党：統合司令部</source>
+        <target>双蛇党：統合司令部</target>
+      </trans-unit>
+      <trans-unit id="403">
+        <source>不滅隊：作戦本部</source>
+        <target>不滅隊：作戦本部</target>
+      </trans-unit>
+      <trans-unit id="404">
+        <source>冒険者居住区</source>
+        <target>冒険者居住区</target>
+      </trans-unit>
+      <trans-unit id="405">
+        <source>コロセウム対戦受付</source>
+        <target>コロセウム対戦受付</target>
+      </trans-unit>
+      <trans-unit id="406">
+        <source>モブハントボード</source>
+        <target>モブハントボード</target>
+      </trans-unit>
+      <trans-unit id="407">
+        <source>天気予報士</source>
+        <target>天気予報士</target>
+      </trans-unit>
+      <trans-unit id="408">
+        <source>美容師の呼び鈴</source>
+        <target>美容師の呼び鈴</target>
+      </trans-unit>
+      <trans-unit id="409">
+        <source>拡張街</source>
+        <target>拡張街</target>
+      </trans-unit>
+      <trans-unit id="410">
+        <source>オーケストリオン</source>
+        <target>オーケストリオン</target>
+      </trans-unit>
+      <trans-unit id="411">
+        <source>木人</source>
+        <target>木人</target>
+      </trans-unit>
+      <trans-unit id="412">
+        <source>マテリア師</source>
+        <target>マテリア師</target>
+      </trans-unit>
+      <trans-unit id="413">
+        <source>アパルトメント</source>
+        <target>アパルトメント</target>
+      </trans-unit>
+      <trans-unit id="414">
+        <source>ミラージュドレッサー</source>
+        <target>ミラージュドレッサー</target>
+      </trans-unit>
+      <trans-unit id="415">
+        <source>交流帳</source>
+        <target>交流帳</target>
+      </trans-unit>
+      <trans-unit id="416">
+        <source>愛蔵品キャビネット</source>
+        <target>愛蔵品キャビネット</target>
+      </trans-unit>
+      <trans-unit id="417">
+        <source>愛用の紀行録</source>
+        <target>愛用の紀行録</target>
+      </trans-unit>
+      <trans-unit id="418">
+        <source>グランドカンパニー</source>
+        <target>グランドカンパニー</target>
+      </trans-unit>
+      <trans-unit id="419">
+        <source>階級</source>
+        <target>階級</target>
+      </trans-unit>
+      <trans-unit id="420">
+        <source>軍需品</source>
+        <target>軍需品</target>
+      </trans-unit>
+      <trans-unit id="421">
+        <source>補給品</source>
+        <target>補給品</target>
+      </trans-unit>
+      <trans-unit id="422">
+        <source>稀少品</source>
+        <target>稀少品</target>
+      </trans-unit>
+      <trans-unit id="423">
+        <source>黒渦団</source>
+        <target>黒渦団</target>
+      </trans-unit>
+      <trans-unit id="424">
+        <source>双蛇党</source>
+        <target>双蛇党</target>
+      </trans-unit>
+      <trans-unit id="425">
+        <source>不滅隊</source>
+        <target>不滅隊</target>
+      </trans-unit>
+      <trans-unit id="426">
+        <source>フリーカンパニー</source>
+        <target>フリーカンパニー</target>
+      </trans-unit>
+      <trans-unit id="427">
+        <source>署名</source>
+        <target>署名</target>
+      </trans-unit>
+      <trans-unit id="428">
+        <source>カンパニーボード</source>
+        <target>カンパニーボード</target>
+      </trans-unit>
+      <trans-unit id="429">
+        <source>カンパニーチェスト</source>
+        <target>カンパニーチェスト</target>
+      </trans-unit>
+      <trans-unit id="430">
+        <source>カンパニークレスト</source>
+        <target>カンパニークレスト</target>
+      </trans-unit>
+      <trans-unit id="431">
+        <source>カンパニーアクション</source>
+        <target>カンパニーアクション</target>
+      </trans-unit>
+      <trans-unit id="432">
+        <source>カンパニークラフト</source>
+        <target>カンパニークラフト</target>
+      </trans-unit>
+      <trans-unit id="433">
+        <source>地下工房</source>
+        <target>地下工房</target>
+      </trans-unit>
+      <trans-unit id="434">
+        <source>エアシップボイジャー</source>
+        <target>エアシップボイジャー</target>
+      </trans-unit>
+      <trans-unit id="435">
+        <source>サブマリンボイジャー</source>
+        <target>サブマリンボイジャー</target>
+      </trans-unit>
+      <trans-unit id="436">
+        <source>ゲームシステム</source>
+        <target>ゲームシステム</target>
+      </trans-unit>
+      <trans-unit id="437">
+        <source>クラス</source>
+        <target>クラス</target>
+      </trans-unit>
+      <trans-unit id="438">
+        <source>クラスチェンジ</source>
+        <target>クラスチェンジ</target>
+      </trans-unit>
+      <trans-unit id="439">
+        <source>ジョブ</source>
+        <target>ジョブ</target>
+      </trans-unit>
+      <trans-unit id="440">
+        <source>ジョブチェンジ</source>
+        <target>ジョブチェンジ</target>
+      </trans-unit>
+      <trans-unit id="441">
+        <source>ソウルクリスタル</source>
+        <target>ソウルクリスタル</target>
+      </trans-unit>
+      <trans-unit id="442">
+        <source>レベル</source>
+        <target>レベル</target>
+      </trans-unit>
+      <trans-unit id="443">
+        <source>経験値</source>
+        <target>経験値</target>
+      </trans-unit>
+      <trans-unit id="444">
+        <source>守護神</source>
+        <target>守護神</target>
+      </trans-unit>
+      <trans-unit id="445">
+        <source>民族</source>
+        <target>民族</target>
+      </trans-unit>
+      <trans-unit id="446">
+        <source>部族</source>
+        <target>部族</target>
+      </trans-unit>
+      <trans-unit id="447">
+        <source>エリア</source>
+        <target>エリア</target>
+      </trans-unit>
+      <trans-unit id="448">
+        <source>アーマリー</source>
+        <target>アーマリー</target>
+      </trans-unit>
+      <trans-unit id="449">
+        <source>アイテム</source>
+        <target>アイテム</target>
+      </trans-unit>
+      <trans-unit id="450">
+        <source>ギアセット</source>
+        <target>ギアセット</target>
+      </trans-unit>
+      <trans-unit id="451">
+        <source>レストボーナス</source>
+        <target>レストボーナス</target>
+      </trans-unit>
+      <trans-unit id="452">
+        <source>ソロ</source>
+        <target>ソロ</target>
+      </trans-unit>
+      <trans-unit id="453">
+        <source>パーティ</source>
+        <target>パーティ</target>
+      </trans-unit>
+      <trans-unit id="454">
+        <source>マウント</source>
+        <target>マウント</target>
+      </trans-unit>
+      <trans-unit id="455">
+        <source>ミニオン</source>
+        <target>ミニオン</target>
+      </trans-unit>
+      <trans-unit id="456">
+        <source>リテイナー</source>
+        <target>リテイナー</target>
+      </trans-unit>
+      <trans-unit id="457">
+        <source>バトル</source>
+        <target>バトル</target>
+      </trans-unit>
+      <trans-unit id="458">
+        <source>製作</source>
+        <target>製作</target>
+      </trans-unit>
+      <trans-unit id="459">
+        <source>採集</source>
+        <target>採集</target>
+      </trans-unit>
+      <trans-unit id="460">
+        <source>耐久度</source>
+        <target>耐久度</target>
+      </trans-unit>
+      <trans-unit id="461">
+        <source>錬精度</source>
+        <target>錬精度</target>
+      </trans-unit>
+      <trans-unit id="462">
+        <source>装備適性</source>
+        <target>装備適性</target>
+      </trans-unit>
+      <trans-unit id="463">
+        <source>宝箱</source>
+        <target>宝箱</target>
+      </trans-unit>
+      <trans-unit id="464">
+        <source>ターゲット</source>
+        <target>ターゲット</target>
+      </trans-unit>
+      <trans-unit id="465">
+        <source>ロックオン</source>
+        <target>ロックオン</target>
+      </trans-unit>
+      <trans-unit id="466">
+        <source>フォーカスターゲット</source>
+        <target>フォーカスターゲット</target>
+      </trans-unit>
+      <trans-unit id="467">
+        <source>ターゲットマーカー</source>
+        <target>ターゲットマーカー</target>
+      </trans-unit>
+      <trans-unit id="468">
+        <source>メニュー</source>
+        <target>メニュー</target>
+      </trans-unit>
+      <trans-unit id="469">
+        <source>マップ</source>
+        <target>マップ</target>
+      </trans-unit>
+      <trans-unit id="470">
+        <source>サポートデスク</source>
+        <target>サポートデスク</target>
+      </trans-unit>
+      <trans-unit id="471">
+        <source>スクリーンショット</source>
+        <target>スクリーンショット</target>
+      </trans-unit>
+      <trans-unit id="472">
+        <source>ログアウト</source>
+        <target>ログアウト</target>
+      </trans-unit>
+      <trans-unit id="473">
+        <source>ゲーム終了</source>
+        <target>ゲーム終了</target>
+      </trans-unit>
+      <trans-unit id="474">
+        <source>シャットダウン</source>
+        <target>シャットダウン</target>
+      </trans-unit>
+      <trans-unit id="475">
+        <source>定型文辞書</source>
+        <target>定型文辞書</target>
+      </trans-unit>
+      <trans-unit id="476">
+        <source>エモート</source>
+        <target>エモート</target>
+      </trans-unit>
+      <trans-unit id="477">
+        <source>アチーブメント</source>
+        <target>アチーブメント</target>
+      </trans-unit>
+      <trans-unit id="478">
+        <source>称号</source>
+        <target>称号</target>
+      </trans-unit>
+      <trans-unit id="479">
+        <source>通貨</source>
+        <target>通貨</target>
+      </trans-unit>
+      <trans-unit id="480">
+        <source>ギル</source>
+        <target>ギル</target>
+      </trans-unit>
+      <trans-unit id="481">
+        <source>トレード</source>
+        <target>トレード</target>
+      </trans-unit>
+      <trans-unit id="482">
+        <source>調べる</source>
+        <target>調べる</target>
+      </trans-unit>
+      <trans-unit id="483">
+        <source>自動追尾</source>
+        <target>自動追尾</target>
+      </trans-unit>
+      <trans-unit id="484">
+        <source>アライアンス</source>
+        <target>アライアンス</target>
+      </trans-unit>
+      <trans-unit id="485">
+        <source>ハウジング</source>
+        <target>ハウジング</target>
+      </trans-unit>
+      <trans-unit id="486">
+        <source>友好度</source>
+        <target>友好度</target>
+      </trans-unit>
+      <trans-unit id="487">
+        <source>友好ランク</source>
+        <target>友好ランク</target>
+      </trans-unit>
+      <trans-unit id="488">
+        <source>MIP</source>
+        <target>MIP</target>
+      </trans-unit>
+      <trans-unit id="489">
+        <source>アラガントームストーン</source>
+        <target>アラガントームストーン</target>
+      </trans-unit>
+      <trans-unit id="490">
+        <source>投票除名</source>
+        <target>投票除名</target>
+      </trans-unit>
+      <trans-unit id="491">
+        <source>ギブアップ投票</source>
+        <target>ギブアップ投票</target>
+      </trans-unit>
+      <trans-unit id="492">
+        <source>フィールドマーカー</source>
+        <target>フィールドマーカー</target>
+      </trans-unit>
+      <trans-unit id="493">
+        <source>グラウンドターゲット</source>
+        <target>グラウンドターゲット</target>
+      </trans-unit>
+      <trans-unit id="494">
+        <source>武具投影</source>
+        <target>武具投影</target>
+      </trans-unit>
+      <trans-unit id="495">
+        <source>美容師</source>
+        <target>美容師</target>
+      </trans-unit>
+      <trans-unit id="496">
+        <source>リテイナーベンチャー</source>
+        <target>リテイナーベンチャー</target>
+      </trans-unit>
+      <trans-unit id="497">
+        <source>アートマ</source>
+        <target>アートマ</target>
+      </trans-unit>
+      <trans-unit id="498">
+        <source>ゾディアックウェポン</source>
+        <target>ゾディアックウェポン</target>
+      </trans-unit>
+      <trans-unit id="499">
+        <source>アレキサンドライト</source>
+        <target>アレキサンドライト</target>
+      </trans-unit>
+      <trans-unit id="500">
+        <source>アニムス</source>
+        <target>アニムス</target>
+      </trans-unit>
+      <trans-unit id="501">
+        <source>ノウス</source>
+        <target>ノウス</target>
+      </trans-unit>
+      <trans-unit id="502">
+        <source>同盟記章</source>
+        <target>同盟記章</target>
+      </trans-unit>
+      <trans-unit id="503">
+        <source>モブ手配書</source>
+        <target>モブ手配書</target>
+      </trans-unit>
+      <trans-unit id="504">
+        <source>アウトロー戦区</source>
+        <target>アウトロー戦区</target>
+      </trans-unit>
+      <trans-unit id="505">
+        <source>超える力</source>
+        <target>超える力</target>
+      </trans-unit>
+      <trans-unit id="506">
+        <source>チョコボ育成</source>
+        <target>チョコボ育成</target>
+      </trans-unit>
+      <trans-unit id="507">
+        <source>天気予報</source>
+        <target>天気予報</target>
+      </trans-unit>
+      <trans-unit id="508">
+        <source>アラガントームストーン:詩学</source>
+        <target>アラガントームストーン:詩学</target>
+      </trans-unit>
+      <trans-unit id="509">
+        <source>貢献値</source>
+        <target>貢献値</target>
+      </trans-unit>
+      <trans-unit id="510">
+        <source>軍票</source>
+        <target>軍票</target>
+      </trans-unit>
+      <trans-unit id="511">
+        <source>対人戦績</source>
+        <target>対人戦績</target>
+      </trans-unit>
+      <trans-unit id="512">
+        <source>ゼニス</source>
+        <target>ゼニス</target>
+      </trans-unit>
+      <trans-unit id="513">
+        <source>ネクサス</source>
+        <target>ネクサス</target>
+      </trans-unit>
+      <trans-unit id="514">
+        <source>セントリオ記章</source>
+        <target>セントリオ記章</target>
+      </trans-unit>
+      <trans-unit id="515">
+        <source>マスタールート</source>
+        <target>マスタールート</target>
+      </trans-unit>
+      <trans-unit id="516">
+        <source>GREED限定</source>
+        <target>GREED限定</target>
+      </trans-unit>
+      <trans-unit id="517">
+        <source>通常ロット</source>
+        <target>通常ロット</target>
+      </trans-unit>
+      <trans-unit id="518">
+        <source>アニマウェポン</source>
+        <target>アニマウェポン</target>
+      </trans-unit>
+      <trans-unit id="519">
+        <source>エターナルバンド</source>
+        <target>エターナルバンド</target>
+      </trans-unit>
+      <trans-unit id="520">
+        <source>アイテムレベル</source>
+        <target>アイテムレベル</target>
+      </trans-unit>
+      <trans-unit id="521">
+        <source>レベルアジャスト</source>
+        <target>レベルアジャスト</target>
+      </trans-unit>
+      <trans-unit id="522">
+        <source>クロの空想帳</source>
+        <target>クロの空想帳</target>
+      </trans-unit>
+      <trans-unit id="523">
+        <source>制限解除</source>
+        <target>制限解除</target>
+      </trans-unit>
+      <trans-unit id="524">
+        <source>楽器演奏</source>
+        <target>楽器演奏</target>
+      </trans-unit>
+      <trans-unit id="525">
+        <source>ファッションチェック</source>
+        <target>ファッションチェック</target>
+      </trans-unit>
+      <trans-unit id="526">
+        <source>バトル</source>
+        <target>バトル</target>
+      </trans-unit>
+      <trans-unit id="527">
+        <source>攻撃</source>
+        <target>攻撃</target>
+      </trans-unit>
+      <trans-unit id="528">
+        <source>アクション</source>
+        <target>アクション</target>
+      </trans-unit>
+      <trans-unit id="529">
+        <source>ジェネラルアクション</source>
+        <target>ジェネラルアクション</target>
+      </trans-unit>
+      <trans-unit id="530">
+        <source>特性</source>
+        <target>特性</target>
+      </trans-unit>
+      <trans-unit id="531">
+        <source>ジョブアクション</source>
+        <target>ジョブアクション</target>
+      </trans-unit>
+      <trans-unit id="532">
+        <source>アディショナルアクション</source>
+        <target>アディショナルアクション</target>
+      </trans-unit>
+      <trans-unit id="533">
+        <source>魔法</source>
+        <target>魔法</target>
+      </trans-unit>
+      <trans-unit id="534">
+        <source>ウェポンスキル</source>
+        <target>ウェポンスキル</target>
+      </trans-unit>
+      <trans-unit id="535">
+        <source>アビリティ</source>
+        <target>アビリティ</target>
+      </trans-unit>
+      <trans-unit id="536">
+        <source>キャストタイム</source>
+        <target>キャストタイム</target>
+      </trans-unit>
+      <trans-unit id="537">
+        <source>リキャストタイム</source>
+        <target>リキャストタイム</target>
+      </trans-unit>
+      <trans-unit id="538">
+        <source>行動適性</source>
+        <target>行動適性</target>
+      </trans-unit>
+      <trans-unit id="539">
+        <source>リンク</source>
+        <target>リンク</target>
+      </trans-unit>
+      <trans-unit id="540">
+        <source>ペット</source>
+        <target>ペット</target>
+      </trans-unit>
+      <trans-unit id="541">
+        <source>バディ</source>
+        <target>バディ</target>
+      </trans-unit>
+      <trans-unit id="542">
+        <source>敵視</source>
+        <target>敵視</target>
+      </trans-unit>
+      <trans-unit id="543">
+        <source>好戦的</source>
+        <target>好戦的</target>
+      </trans-unit>
+      <trans-unit id="544">
+        <source>非好戦的</source>
+        <target>非好戦的</target>
+      </trans-unit>
+      <trans-unit id="545">
+        <source>戦闘不能</source>
+        <target>戦闘不能</target>
+      </trans-unit>
+      <trans-unit id="546">
+        <source>戦利品</source>
+        <target>戦利品</target>
+      </trans-unit>
+      <trans-unit id="547">
+        <source>分配</source>
+        <target>分配</target>
+      </trans-unit>
+      <trans-unit id="548">
+        <source>ロット</source>
+        <target>ロット</target>
+      </trans-unit>
+      <trans-unit id="549">
+        <source>レジスト</source>
+        <target>レジスト</target>
+      </trans-unit>
+      <trans-unit id="550">
+        <source>修得</source>
+        <target>修得</target>
+      </trans-unit>
+      <trans-unit id="551">
+        <source>感知</source>
+        <target>感知</target>
+      </trans-unit>
+      <trans-unit id="552">
+        <source>範囲</source>
+        <target>範囲</target>
+      </trans-unit>
+      <trans-unit id="553">
+        <source>リミットブレイク</source>
+        <target>リミットブレイク</target>
+      </trans-unit>
+      <trans-unit id="554">
+        <source>敵</source>
+        <target>敵</target>
+      </trans-unit>
+      <trans-unit id="555">
+        <source>モンスター</source>
+        <target>モンスター</target>
+      </trans-unit>
+      <trans-unit id="556">
+        <source>ノートリアスモンスター</source>
+        <target>ノートリアスモンスター</target>
+      </trans-unit>
+      <trans-unit id="557">
+        <source>チェーンボーナス</source>
+        <target>チェーンボーナス</target>
+      </trans-unit>
+      <trans-unit id="558">
+        <source>アーマリーボーナス</source>
+        <target>アーマリーボーナス</target>
+      </trans-unit>
+      <trans-unit id="559">
+        <source>レベルシンク</source>
+        <target>レベルシンク</target>
+      </trans-unit>
+      <trans-unit id="560">
+        <source>PvPアクション</source>
+        <target>PvPアクション</target>
+      </trans-unit>
+      <trans-unit id="561">
+        <source>範囲攻撃</source>
+        <target>範囲攻撃</target>
+      </trans-unit>
+      <trans-unit id="562">
+        <source>前方範囲攻撃</source>
+        <target>前方範囲攻撃</target>
+      </trans-unit>
+      <trans-unit id="563">
+        <source>後方範囲攻撃</source>
+        <target>後方範囲攻撃</target>
+      </trans-unit>
+      <trans-unit id="564">
+        <source>全体攻撃</source>
+        <target>全体攻撃</target>
+      </trans-unit>
+      <trans-unit id="565">
+        <source>アウトポスト</source>
+        <target>アウトポスト</target>
+      </trans-unit>
+      <trans-unit id="566">
+        <source>居住区跡</source>
+        <target>居住区跡</target>
+      </trans-unit>
+      <trans-unit id="567">
+        <source>拠点</source>
+        <target>拠点</target>
+      </trans-unit>
+      <trans-unit id="568">
+        <source>フラッグ</source>
+        <target>フラッグ</target>
+      </trans-unit>
+      <trans-unit id="569">
+        <source>占拠</source>
+        <target>占拠</target>
+      </trans-unit>
+      <trans-unit id="570">
+        <source>中立化</source>
+        <target>中立化</target>
+      </trans-unit>
+      <trans-unit id="571">
+        <source>戦術値</source>
+        <target>戦術値</target>
+      </trans-unit>
+      <trans-unit id="572">
+        <source>市場跡</source>
+        <target>市場跡</target>
+      </trans-unit>
+      <trans-unit id="573">
+        <source>太陽神殿</source>
+        <target>太陽神殿</target>
+      </trans-unit>
+      <trans-unit id="574">
+        <source>コンボ</source>
+        <target>コンボ</target>
+      </trans-unit>
+      <trans-unit id="575">
+        <source>アドレナリンラッシュ</source>
+        <target>アドレナリンラッシュ</target>
+      </trans-unit>
+      <trans-unit id="576">
+        <source>単体攻撃</source>
+        <target>単体攻撃</target>
+      </trans-unit>
+      <trans-unit id="577">
+        <source>バリスタ</source>
+        <target>バリスタ</target>
+      </trans-unit>
+      <trans-unit id="578">
+        <source>アラガントームリス</source>
+        <target>アラガントームリス</target>
+      </trans-unit>
+      <trans-unit id="579">
+        <source>チーム・クロウ</source>
+        <target>チーム・クロウ</target>
+      </trans-unit>
+      <trans-unit id="580">
+        <source>チーム・ファング</source>
+        <target>チーム・ファング</target>
+      </trans-unit>
+      <trans-unit id="581">
+        <source>メダル</source>
+        <target>メダル</target>
+      </trans-unit>
+      <trans-unit id="582">
+        <source>デンジャータイム</source>
+        <target>デンジャータイム</target>
+      </trans-unit>
+      <trans-unit id="583">
+        <source>アドレナリンボックス</source>
+        <target>アドレナリンボックス</target>
+      </trans-unit>
+      <trans-unit id="584">
+        <source>アドレナリンキット</source>
+        <target>アドレナリンキット</target>
+      </trans-unit>
+      <trans-unit id="585">
+        <source>サプライボックス</source>
+        <target>サプライボックス</target>
+      </trans-unit>
+      <trans-unit id="586">
+        <source>ノックアウト</source>
+        <target>ノックアウト</target>
+      </trans-unit>
+      <trans-unit id="587">
+        <source>ダウン</source>
+        <target>ダウン</target>
+      </trans-unit>
+      <trans-unit id="588">
+        <source>アシスト</source>
+        <target>アシスト</target>
+      </trans-unit>
+      <trans-unit id="589">
+        <source>連続攻撃</source>
+        <target>連続攻撃</target>
+      </trans-unit>
+      <trans-unit id="590">
+        <source>突進攻撃</source>
+        <target>突進攻撃</target>
+      </trans-unit>
+      <trans-unit id="591">
+        <source>ノックバック</source>
+        <target>ノックバック</target>
+      </trans-unit>
+      <trans-unit id="592">
+        <source>引き寄せ</source>
+        <target>引き寄せ</target>
+      </trans-unit>
+      <trans-unit id="593">
+        <source>アイスドトームリス</source>
+        <target>アイスドトームリス</target>
+      </trans-unit>
+      <trans-unit id="594">
+        <source>情報値</source>
+        <target>情報値</target>
+      </trans-unit>
+      <trans-unit id="595">
+        <source>ウルフハートボックス</source>
+        <target>ウルフハートボックス</target>
+      </trans-unit>
+      <trans-unit id="596">
+        <source>ウルフハートキット</source>
+        <target>ウルフハートキット</target>
+      </trans-unit>
+      <trans-unit id="597">
+        <source>コア</source>
+        <target>コア</target>
+      </trans-unit>
+      <trans-unit id="598">
+        <source>魔導フィールド</source>
+        <target>魔導フィールド</target>
+      </trans-unit>
+      <trans-unit id="599">
+        <source>タワー</source>
+        <target>タワー</target>
+      </trans-unit>
+      <trans-unit id="600">
+        <source>ハンガー</source>
+        <target>ハンガー</target>
+      </trans-unit>
+      <trans-unit id="601">
+        <source>青燐水</source>
+        <target>青燐水</target>
+      </trans-unit>
+      <trans-unit id="602">
+        <source>パワージェネレーター</source>
+        <target>パワージェネレーター</target>
+      </trans-unit>
+      <trans-unit id="603">
+        <source>スチームカノン</source>
+        <target>スチームカノン</target>
+      </trans-unit>
+      <trans-unit id="604">
+        <source>オートマトン・バイキング</source>
+        <target>オートマトン・バイキング</target>
+      </trans-unit>
+      <trans-unit id="605">
+        <source>オートマトン・マグス</source>
+        <target>オートマトン・マグス</target>
+      </trans-unit>
+      <trans-unit id="606">
+        <source>機工兵器</source>
+        <target>機工兵器</target>
+      </trans-unit>
+      <trans-unit id="607">
+        <source>クルーズチェイサー</source>
+        <target>クルーズチェイサー</target>
+      </trans-unit>
+      <trans-unit id="608">
+        <source>オプレッサー</source>
+        <target>オプレッサー</target>
+      </trans-unit>
+      <trans-unit id="609">
+        <source>ブルートジャスティス</source>
+        <target>ブルートジャスティス</target>
+      </trans-unit>
+      <trans-unit id="610">
+        <source>ロールアクション</source>
+        <target>ロールアクション</target>
+      </trans-unit>
+      <trans-unit id="611">
+        <source>クイックチャット</source>
+        <target>クイックチャット</target>
+      </trans-unit>
+      <trans-unit id="612">
+        <source>青燐機関車</source>
+        <target>青燐機関車</target>
+      </trans-unit>
+      <trans-unit id="613">
+        <source>ゴブリタンク</source>
+        <target>ゴブリタンク</target>
+      </trans-unit>
+      <trans-unit id="614">
+        <source>ゴブリン・マーシナリー</source>
+        <target>ゴブリン・マーシナリー</target>
+      </trans-unit>
+      <trans-unit id="615">
+        <source>戦略値</source>
+        <target>戦略値</target>
+      </trans-unit>
+      <trans-unit id="616">
+        <source>オンラインステータス</source>
+        <target>オンラインステータス</target>
+      </trans-unit>
+      <trans-unit id="617">
+        <source>オンライン</source>
+        <target>オンライン</target>
+      </trans-unit>
+      <trans-unit id="618">
+        <source>離席</source>
+        <target>離席</target>
+      </trans-unit>
+      <trans-unit id="619">
+        <source>取り込み中</source>
+        <target>取り込み中</target>
+      </trans-unit>
+      <trans-unit id="620">
+        <source>パーティ希望</source>
+        <target>パーティ希望</target>
+      </trans-unit>
+      <trans-unit id="621">
+        <source>マテリア装着請負中</source>
+        <target>マテリア装着請負中</target>
+      </trans-unit>
+      <trans-unit id="622">
+        <source>コンテンツ中</source>
+        <target>コンテンツ中</target>
+      </trans-unit>
+      <trans-unit id="623">
+        <source>オフライン</source>
+        <target>オフライン</target>
+      </trans-unit>
+      <trans-unit id="624">
+        <source>パーティ募集中</source>
+        <target>パーティ募集中</target>
+      </trans-unit>
+      <trans-unit id="625">
+        <source>ビギナー</source>
+        <target>ビギナー</target>
+      </trans-unit>
+      <trans-unit id="626">
+        <source>メンター</source>
+        <target>メンター</target>
+      </trans-unit>
+      <trans-unit id="627">
+        <source>バトルメンター</source>
+        <target>バトルメンター</target>
+      </trans-unit>
+      <trans-unit id="628">
+        <source>PvPメンター</source>
+        <target>PvPメンター</target>
+      </trans-unit>
+      <trans-unit id="629">
+        <source>製作採集メンター</source>
+        <target>製作採集メンター</target>
+      </trans-unit>
+      <trans-unit id="630">
+        <source>ロールプレイ中</source>
+        <target>ロールプレイ中</target>
+      </trans-unit>
+      <trans-unit id="631">
+        <source>リターナー</source>
+        <target>リターナー</target>
+      </trans-unit>
+      <trans-unit id="632">
+        <source>イベント中</source>
+        <target>イベント中</target>
+      </trans-unit>
+      <trans-unit id="633">
+        <source>無垢の土地</source>
+        <target>無垢の土地</target>
+      </trans-unit>
+      <trans-unit id="634">
+        <source>契約</source>
+        <target>契約</target>
+      </trans-unit>
+      <trans-unit id="635">
+        <source>タクティカルクリスタル</source>
+        <target>タクティカルクリスタル</target>
+      </trans-unit>
+      <trans-unit id="636">
+        <source>クリスタルポイント</source>
+        <target>クリスタルポイント</target>
+      </trans-unit>
+      <trans-unit id="637">
+        <source>勝ち星</source>
+        <target>勝ち星</target>
+      </trans-unit>
+      <trans-unit id="638">
+        <source>チーム・アストラ</source>
+        <target>チーム・アストラ</target>
+      </trans-unit>
+      <trans-unit id="639">
+        <source>チーム・アンブラ</source>
+        <target>チーム・アンブラ</target>
+      </trans-unit>
+      <trans-unit id="640">
+        <source>コミュニケーション</source>
+        <target>コミュニケーション</target>
+      </trans-unit>
+      <trans-unit id="641">
+        <source>チャット</source>
+        <target>チャット</target>
+      </trans-unit>
+      <trans-unit id="642">
+        <source>Tell</source>
+        <target>Tell</target>
+      </trans-unit>
+      <trans-unit id="643">
+        <source>Say</source>
+        <target>Say</target>
+      </trans-unit>
+      <trans-unit id="644">
+        <source>Shout</source>
+        <target>Shout</target>
+      </trans-unit>
+      <trans-unit id="645">
+        <source>Yell</source>
+        <target>Yell</target>
+      </trans-unit>
+      <trans-unit id="646">
+        <source>フレンドリスト</source>
+        <target>フレンドリスト</target>
+      </trans-unit>
+      <trans-unit id="647">
+        <source>ブラックリスト</source>
+        <target>ブラックリスト</target>
+      </trans-unit>
+      <trans-unit id="648">
+        <source>PCサーチ</source>
+        <target>PCサーチ</target>
+      </trans-unit>
+      <trans-unit id="649">
+        <source>リンクシェル</source>
+        <target>リンクシェル</target>
+      </trans-unit>
+      <trans-unit id="650">
+        <source>モグレター</source>
+        <target>モグレター</target>
+      </trans-unit>
+      <trans-unit id="651">
+        <source>ロードストーン</source>
+        <target>ロードストーン</target>
+      </trans-unit>
+      <trans-unit id="652">
+        <source>日記</source>
+        <target>日記</target>
+      </trans-unit>
+      <trans-unit id="653">
+        <source>フォロー</source>
+        <target>フォロー</target>
+      </trans-unit>
+      <trans-unit id="654">
+        <source>フォーラム</source>
+        <target>フォーラム</target>
+      </trans-unit>
+      <trans-unit id="655">
+        <source>ランキング</source>
+        <target>ランキング</target>
+      </trans-unit>
+      <trans-unit id="656">
+        <source>グランドカンパニーランキング</source>
+        <target>グランドカンパニーランキング</target>
+      </trans-unit>
+      <trans-unit id="657">
+        <source>フリーカンパニーランキング</source>
+        <target>フリーカンパニーランキング</target>
+      </trans-unit>
+      <trans-unit id="658">
+        <source>Party</source>
+        <target>Party</target>
+      </trans-unit>
+      <trans-unit id="659">
+        <source>Alliance</source>
+        <target>Alliance</target>
+      </trans-unit>
+      <trans-unit id="660">
+        <source>Linkshell</source>
+        <target>Linkshell</target>
+      </trans-unit>
+      <trans-unit id="661">
+        <source>FreeCompany</source>
+        <target>FreeCompany</target>
+      </trans-unit>
+      <trans-unit id="662">
+        <source>Beginner</source>
+        <target>Beginner</target>
+      </trans-unit>
+      <trans-unit id="663">
+        <source>PvPTeam</source>
+        <target>PvPTeam</target>
+      </trans-unit>
+      <trans-unit id="664">
+        <source>CrossWorldLinkshell</source>
+        <target>CrossWorldLinkshell</target>
+      </trans-unit>
+      <trans-unit id="665">
+        <source>クロスワールドリンクシェル</source>
+        <target>クロスワールドリンクシェル</target>
+      </trans-unit>
+      <trans-unit id="666">
+        <source>コンタクトリスト</source>
+        <target>コンタクトリスト</target>
+      </trans-unit>
+      <trans-unit id="667">
+        <source>コミュニティファインダー</source>
+        <target>コミュニティファインダー</target>
+      </trans-unit>
+      <trans-unit id="668">
+        <source>製作&amp;採集</source>
+        <target>製作&amp;採集</target>
+      </trans-unit>
+      <trans-unit id="669">
+        <source>シャード</source>
+        <target>シャード</target>
+      </trans-unit>
+      <trans-unit id="670">
+        <source>クリスタル</source>
+        <target>クリスタル</target>
+      </trans-unit>
+      <trans-unit id="671">
+        <source>クラスター</source>
+        <target>クラスター</target>
+      </trans-unit>
+      <trans-unit id="672">
+        <source>マテリア</source>
+        <target>マテリア</target>
+      </trans-unit>
+      <trans-unit id="673">
+        <source>マテリア精製</source>
+        <target>マテリア精製</target>
+      </trans-unit>
+      <trans-unit id="674">
+        <source>マテリアクラフト</source>
+        <target>マテリアクラフト</target>
+      </trans-unit>
+      <trans-unit id="675">
+        <source>マーケット</source>
+        <target>マーケット</target>
+      </trans-unit>
+      <trans-unit id="676">
+        <source>マーケットサーチ</source>
+        <target>マーケットサーチ</target>
+      </trans-unit>
+      <trans-unit id="677">
+        <source>HQ</source>
+        <target>HQ</target>
+      </trans-unit>
+      <trans-unit id="678">
+        <source>Rare</source>
+        <target>Rare</target>
+      </trans-unit>
+      <trans-unit id="679">
+        <source>Ex</source>
+        <target>Ex</target>
+      </trans-unit>
+      <trans-unit id="680">
+        <source>素材</source>
+        <target>素材</target>
+      </trans-unit>
+      <trans-unit id="681">
+        <source>簡易製作</source>
+        <target>簡易製作</target>
+      </trans-unit>
+      <trans-unit id="682">
+        <source>品質</source>
+        <target>品質</target>
+      </trans-unit>
+      <trans-unit id="683">
+        <source>高品質</source>
+        <target>高品質</target>
+      </trans-unit>
+      <trans-unit id="684">
+        <source>最高品質</source>
+        <target>最高品質</target>
+      </trans-unit>
+      <trans-unit id="685">
+        <source>修理</source>
+        <target>修理</target>
+      </trans-unit>
+      <trans-unit id="686">
+        <source>修理材</source>
+        <target>修理材</target>
+      </trans-unit>
+      <trans-unit id="687">
+        <source>染色</source>
+        <target>染色</target>
+      </trans-unit>
+      <trans-unit id="688">
+        <source>良木</source>
+        <target>良木</target>
+      </trans-unit>
+      <trans-unit id="689">
+        <source>伐採</source>
+        <target>伐採</target>
+      </trans-unit>
+      <trans-unit id="690">
+        <source>草刈</source>
+        <target>草刈</target>
+      </trans-unit>
+      <trans-unit id="691">
+        <source>採掘場</source>
+        <target>採掘場</target>
+      </trans-unit>
+      <trans-unit id="692">
+        <source>採掘</source>
+        <target>採掘</target>
+      </trans-unit>
+      <trans-unit id="693">
+        <source>砕岩</source>
+        <target>砕岩</target>
+      </trans-unit>
+      <trans-unit id="694">
+        <source>釣り</source>
+        <target>釣り</target>
+      </trans-unit>
+      <trans-unit id="695">
+        <source>マテリア装着</source>
+        <target>マテリア装着</target>
+      </trans-unit>
+      <trans-unit id="696">
+        <source>禁断のマテリア装着</source>
+        <target>禁断のマテリア装着</target>
+      </trans-unit>
+      <trans-unit id="697">
+        <source>栽培</source>
+        <target>栽培</target>
+      </trans-unit>
+      <trans-unit id="698">
+        <source>育成</source>
+        <target>育成</target>
+      </trans-unit>
+      <trans-unit id="699">
+        <source>収穫</source>
+        <target>収穫</target>
+      </trans-unit>
+      <trans-unit id="700">
+        <source>秘伝書</source>
+        <target>秘伝書</target>
+      </trans-unit>
+      <trans-unit id="701">
+        <source>分解</source>
+        <target>分解</target>
+      </trans-unit>
+      <trans-unit id="702">
+        <source>ヌシ釣り</source>
+        <target>ヌシ釣り</target>
+      </trans-unit>
+      <trans-unit id="703">
+        <source>リリース</source>
+        <target>リリース</target>
+      </trans-unit>
+      <trans-unit id="704">
+        <source>未知の採集場所</source>
+        <target>未知の採集場所</target>
+      </trans-unit>
+      <trans-unit id="705">
+        <source>収集品</source>
+        <target>収集品</target>
+      </trans-unit>
+      <trans-unit id="706">
+        <source>マイスター</source>
+        <target>マイスター</target>
+      </trans-unit>
+      <trans-unit id="707">
+        <source>護符</source>
+        <target>護符</target>
+      </trans-unit>
+      <trans-unit id="708">
+        <source>伝承録</source>
+        <target>伝承録</target>
+      </trans-unit>
+      <trans-unit id="709">
+        <source>ギャザラースクリップ</source>
+        <target>ギャザラースクリップ</target>
+      </trans-unit>
+      <trans-unit id="710">
+        <source>クラフタースクリップ:黄貨</source>
+        <target>クラフタースクリップ:黄貨</target>
+      </trans-unit>
+      <trans-unit id="711">
+        <source>ギャザラースクリップ:黄貨</source>
+        <target>ギャザラースクリップ:黄貨</target>
+      </trans-unit>
+      <trans-unit id="712">
+        <source>クラフタースクリップ:白貨</source>
+        <target>クラフタースクリップ:白貨</target>
+      </trans-unit>
+      <trans-unit id="713">
+        <source>ギャザラースクリップ:白貨</source>
+        <target>ギャザラースクリップ:白貨</target>
+      </trans-unit>
+      <trans-unit id="714">
+        <source>簡易採集</source>
+        <target>簡易採集</target>
+      </trans-unit>
+      <trans-unit id="715">
+        <source>製作練習</source>
+        <target>製作練習</target>
+      </trans-unit>
+      <trans-unit id="716">
+        <source>蒼天街振興券</source>
+        <target>蒼天街振興券</target>
+      </trans-unit>
+      <trans-unit id="717">
+        <source>収集価値</source>
+        <target>収集価値</target>
+      </trans-unit>
+      <trans-unit id="718">
+        <source>クラフタースクリップ:紫貨</source>
+        <target>クラフタースクリップ:紫貨</target>
+      </trans-unit>
+      <trans-unit id="719">
+        <source>ギャザラースクリップ:紫貨</source>
+        <target>ギャザラースクリップ:紫貨</target>
+      </trans-unit>
+      <trans-unit id="720">
+        <source>刺突漁</source>
+        <target>刺突漁</target>
+      </trans-unit>
+      <trans-unit id="721">
+        <source>開拓採集</source>
+        <target>開拓採集</target>
+      </trans-unit>
+      <trans-unit id="722">
+        <source>開拓製作</source>
+        <target>開拓製作</target>
+      </trans-unit>
+      <trans-unit id="723">
+        <source>シェルダレースクリップ:青船貨</source>
+        <target>シェルダレースクリップ:青船貨</target>
+      </trans-unit>
+      <trans-unit id="724">
+        <source>シェルダレースクリップ:緑島貨</source>
+        <target>シェルダレースクリップ:緑島貨</target>
+      </trans-unit>
+      <trans-unit id="725">
+        <source>ギャザラーロールアクション</source>
+        <target>ギャザラーロールアクション</target>
+      </trans-unit>
+      <trans-unit id="726">
+        <source>蛮神&amp;蛮族</source>
+        <target>蛮神&amp;蛮族</target>
+      </trans-unit>
+      <trans-unit id="727">
+        <source>蛮神</source>
+        <target>蛮神</target>
+      </trans-unit>
+      <trans-unit id="728">
+        <source>イフリート</source>
+        <target>イフリート</target>
+      </trans-unit>
+      <trans-unit id="729">
+        <source>タイタン</source>
+        <target>タイタン</target>
+      </trans-unit>
+      <trans-unit id="730">
+        <source>ガルーダ</source>
+        <target>ガルーダ</target>
+      </trans-unit>
+      <trans-unit id="731">
+        <source>バハムート</source>
+        <target>バハムート</target>
+      </trans-unit>
+      <trans-unit id="732">
+        <source>モグル・モグXII世</source>
+        <target>モグル・モグXII世</target>
+      </trans-unit>
+      <trans-unit id="733">
+        <source>蛮族</source>
+        <target>蛮族</target>
+      </trans-unit>
+      <trans-unit id="734">
+        <source>アマルジャ</source>
+        <target>アマルジャ</target>
+      </trans-unit>
+      <trans-unit id="735">
+        <source>シルフ</source>
+        <target>シルフ</target>
+      </trans-unit>
+      <trans-unit id="736">
+        <source>イクサル</source>
+        <target>イクサル</target>
+      </trans-unit>
+      <trans-unit id="737">
+        <source>コボルド</source>
+        <target>コボルド</target>
+      </trans-unit>
+      <trans-unit id="738">
+        <source>サハギン</source>
+        <target>サハギン</target>
+      </trans-unit>
+      <trans-unit id="739">
+        <source>リヴァイアサン</source>
+        <target>リヴァイアサン</target>
+      </trans-unit>
+      <trans-unit id="740">
+        <source>ラムウ</source>
+        <target>ラムウ</target>
+      </trans-unit>
+      <trans-unit id="741">
+        <source>シヴァ</source>
+        <target>シヴァ</target>
+      </trans-unit>
+      <trans-unit id="742">
+        <source>アレキサンダー</source>
+        <target>アレキサンダー</target>
+      </trans-unit>
+      <trans-unit id="743">
+        <source>ラーヴァナ</source>
+        <target>ラーヴァナ</target>
+      </trans-unit>
+      <trans-unit id="744">
+        <source>ビスマルク</source>
+        <target>ビスマルク</target>
+      </trans-unit>
+      <trans-unit id="745">
+        <source>グナース</source>
+        <target>グナース</target>
+      </trans-unit>
+      <trans-unit id="746">
+        <source>バヌバヌ</source>
+        <target>バヌバヌ</target>
+      </trans-unit>
+      <trans-unit id="747">
+        <source>ゴブリン</source>
+        <target>ゴブリン</target>
+      </trans-unit>
+      <trans-unit id="748">
+        <source>ドラゴン</source>
+        <target>ドラゴン</target>
+      </trans-unit>
+      <trans-unit id="749">
+        <source>ニーズヘッグ</source>
+        <target>ニーズヘッグ</target>
+      </trans-unit>
+      <trans-unit id="750">
+        <source>セフィロト</source>
+        <target>セフィロト</target>
+      </trans-unit>
+      <trans-unit id="751">
+        <source>ソフィア</source>
+        <target>ソフィア</target>
+      </trans-unit>
+      <trans-unit id="752">
+        <source>ズルワーン</source>
+        <target>ズルワーン</target>
+      </trans-unit>
+      <trans-unit id="753">
+        <source>コウジン</source>
+        <target>コウジン</target>
+      </trans-unit>
+      <trans-unit id="754">
+        <source>アナンタ</source>
+        <target>アナンタ</target>
+      </trans-unit>
+      <trans-unit id="755">
+        <source>スサノオ</source>
+        <target>スサノオ</target>
+      </trans-unit>
+      <trans-unit id="756">
+        <source>ラクシュミ</source>
+        <target>ラクシュミ</target>
+      </trans-unit>
+      <trans-unit id="757">
+        <source>神龍</source>
+        <target>神龍</target>
+      </trans-unit>
+      <trans-unit id="758">
+        <source>オメガ</source>
+        <target>オメガ</target>
+      </trans-unit>
+      <trans-unit id="759">
+        <source>白虎</source>
+        <target>白虎</target>
+      </trans-unit>
+      <trans-unit id="760">
+        <source>ツクヨミ</source>
+        <target>ツクヨミ</target>
+      </trans-unit>
+      <trans-unit id="761">
+        <source>モーグリ</source>
+        <target>モーグリ</target>
+      </trans-unit>
+      <trans-unit id="762">
+        <source>ナマズオ</source>
+        <target>ナマズオ</target>
+      </trans-unit>
+      <trans-unit id="763">
+        <source>フェニックス</source>
+        <target>フェニックス</target>
+      </trans-unit>
+      <trans-unit id="764">
+        <source>オーディン</source>
+        <target>オーディン</target>
+      </trans-unit>
+      <trans-unit id="765">
+        <source>朱雀</source>
+        <target>朱雀</target>
+      </trans-unit>
+      <trans-unit id="766">
+        <source>青龍</source>
+        <target>青龍</target>
+      </trans-unit>
+      <trans-unit id="767">
+        <source>ティターニア</source>
+        <target>ティターニア</target>
+      </trans-unit>
+      <trans-unit id="768">
+        <source>イノセンス</source>
+        <target>イノセンス</target>
+      </trans-unit>
+      <trans-unit id="769">
+        <source>ハーデス</source>
+        <target>ハーデス</target>
+      </trans-unit>
+      <trans-unit id="770">
+        <source>ドワーフ</source>
+        <target>ドワーフ</target>
+      </trans-unit>
+      <trans-unit id="771">
+        <source>ピクシー</source>
+        <target>ピクシー</target>
+      </trans-unit>
+      <trans-unit id="772">
+        <source>ン・モゥ</source>
+        <target>ン・モゥ</target>
+      </trans-unit>
+      <trans-unit id="773">
+        <source>キタリ</source>
+        <target>キタリ</target>
+      </trans-unit>
+      <trans-unit id="774">
+        <source>ルビーウェポン</source>
+        <target>ルビーウェポン</target>
+      </trans-unit>
+      <trans-unit id="775">
+        <source>ウォーリア・オブ・ライト</source>
+        <target>ウォーリア・オブ・ライト</target>
+      </trans-unit>
+      <trans-unit id="776">
+        <source>エメラルドウェポン</source>
+        <target>エメラルドウェポン</target>
+      </trans-unit>
+      <trans-unit id="777">
+        <source>ダイヤウェポン</source>
+        <target>ダイヤウェポン</target>
+      </trans-unit>
+      <trans-unit id="778">
+        <source>マタンガ</source>
+        <target>マタンガ</target>
+      </trans-unit>
+      <trans-unit id="779">
+        <source>アルカソーダラ</source>
+        <target>アルカソーダラ</target>
+      </trans-unit>
+      <trans-unit id="780">
+        <source>レポリット</source>
+        <target>レポリット</target>
+      </trans-unit>
+      <trans-unit id="781">
+        <source>ゾディアーク</source>
+        <target>ゾディアーク</target>
+      </trans-unit>
+      <trans-unit id="782">
+        <source>ハイデリン</source>
+        <target>ハイデリン</target>
+      </trans-unit>
+      <trans-unit id="783">
+        <source>オミクロン</source>
+        <target>オミクロン</target>
+      </trans-unit>
+      <trans-unit id="784">
+        <source>バルバリシア</source>
+        <target>バルバリシア</target>
+      </trans-unit>
+      <trans-unit id="785">
+        <source>ルビカンテ</source>
+        <target>ルビカンテ</target>
+      </trans-unit>
+      <trans-unit id="786">
+        <source>コンテンツ</source>
+        <target>コンテンツ</target>
+      </trans-unit>
+      <trans-unit id="787">
+        <source>クエスト</source>
+        <target>クエスト</target>
+      </trans-unit>
+      <trans-unit id="788">
+        <source>メインクエスト</source>
+        <target>メインクエスト</target>
+      </trans-unit>
+      <trans-unit id="789">
+        <source>サブクエスト</source>
+        <target>サブクエスト</target>
+      </trans-unit>
+      <trans-unit id="790">
+        <source>クラスクエスト</source>
+        <target>クラスクエスト</target>
+      </trans-unit>
+      <trans-unit id="791">
+        <source>ジョブクエスト</source>
+        <target>ジョブクエスト</target>
+      </trans-unit>
+      <trans-unit id="792">
+        <source>グランドカンパニークエスト</source>
+        <target>グランドカンパニークエスト</target>
+      </trans-unit>
+      <trans-unit id="793">
+        <source>FATE</source>
+        <target>FATE</target>
+      </trans-unit>
+      <trans-unit id="794">
+        <source>ギルドリーヴ</source>
+        <target>ギルドリーヴ</target>
+      </trans-unit>
+      <trans-unit id="795">
+        <source>リーヴ</source>
+        <target>リーヴ</target>
+      </trans-unit>
+      <trans-unit id="796">
+        <source>傭兵稼業</source>
+        <target>傭兵稼業</target>
+      </trans-unit>
+      <trans-unit id="797">
+        <source>採集稼業</source>
+        <target>採集稼業</target>
+      </trans-unit>
+      <trans-unit id="798">
+        <source>製作稼業</source>
+        <target>製作稼業</target>
+      </trans-unit>
+      <trans-unit id="799">
+        <source>グランドカンパニーリーヴ</source>
+        <target>グランドカンパニーリーヴ</target>
+      </trans-unit>
+      <trans-unit id="800">
+        <source>リーヴリンク</source>
+        <target>リーヴリンク</target>
+      </trans-unit>
+      <trans-unit id="801">
+        <source>リーヴの受注権</source>
+        <target>リーヴの受注権</target>
+      </trans-unit>
+      <trans-unit id="802">
+        <source>リーヴの難易度</source>
+        <target>リーヴの難易度</target>
+      </trans-unit>
+      <trans-unit id="803">
+        <source>ギルドオーダー</source>
+        <target>ギルドオーダー</target>
+      </trans-unit>
+      <trans-unit id="804">
+        <source>ダンジョン</source>
+        <target>ダンジョン</target>
+      </trans-unit>
+      <trans-unit id="805">
+        <source>討伐戦</source>
+        <target>討伐戦</target>
+      </trans-unit>
+      <trans-unit id="806">
+        <source>討滅戦</source>
+        <target>討滅戦</target>
+      </trans-unit>
+      <trans-unit id="807">
+        <source>強襲戦</source>
+        <target>強襲戦</target>
+      </trans-unit>
+      <trans-unit id="808">
+        <source>レイド</source>
+        <target>レイド</target>
+      </trans-unit>
+      <trans-unit id="809">
+        <source>コロセウム</source>
+        <target>コロセウム</target>
+      </trans-unit>
+      <trans-unit id="810">
+        <source>トトラクの千獄</source>
+        <target>トトラクの千獄</target>
+      </trans-unit>
+      <trans-unit id="811">
+        <source>タムタラの墓所</source>
+        <target>タムタラの墓所</target>
+      </trans-unit>
+      <trans-unit id="812">
+        <source>カッパーベル銅山</source>
+        <target>カッパーベル銅山</target>
+      </trans-unit>
+      <trans-unit id="813">
+        <source>サスタシャ浸食洞</source>
+        <target>サスタシャ浸食洞</target>
+      </trans-unit>
+      <trans-unit id="814">
+        <source>オーラムヴェイル</source>
+        <target>オーラムヴェイル</target>
+      </trans-unit>
+      <trans-unit id="815">
+        <source>ハウケタ御用邸</source>
+        <target>ハウケタ御用邸</target>
+      </trans-unit>
+      <trans-unit id="816">
+        <source>ハラタリ修練所</source>
+        <target>ハラタリ修練所</target>
+      </trans-unit>
+      <trans-unit id="817">
+        <source>ブレイフロクスの野営地</source>
+        <target>ブレイフロクスの野営地</target>
+      </trans-unit>
+      <trans-unit id="818">
+        <source>カルン埋没寺院</source>
+        <target>カルン埋没寺院</target>
+      </trans-unit>
+      <trans-unit id="819">
+        <source>ワンダラーパレス</source>
+        <target>ワンダラーパレス</target>
+      </trans-unit>
+      <trans-unit id="820">
+        <source>ストーンヴィジル</source>
+        <target>ストーンヴィジル</target>
+      </trans-unit>
+      <trans-unit id="821">
+        <source>カッターズクライ</source>
+        <target>カッターズクライ</target>
+      </trans-unit>
+      <trans-unit id="822">
+        <source>ゼーメル要塞</source>
+        <target>ゼーメル要塞</target>
+      </trans-unit>
+      <trans-unit id="823">
+        <source>古城アムダプール</source>
+        <target>古城アムダプール</target>
+      </trans-unit>
+      <trans-unit id="824">
+        <source>カストルム・メリディアヌム</source>
+        <target>カストルム・メリディアヌム</target>
+      </trans-unit>
+      <trans-unit id="825">
+        <source>魔導城プラエトリウム</source>
+        <target>魔導城プラエトリウム</target>
+      </trans-unit>
+      <trans-unit id="826">
+        <source>集団戦訓練をくぐり抜けろ！</source>
+        <target>集団戦訓練をくぐり抜けろ！</target>
+      </trans-unit>
+      <trans-unit id="827">
+        <source>彷徨う死霊を討て！</source>
+        <target>彷徨う死霊を討て！</target>
+      </trans-unit>
+      <trans-unit id="828">
+        <source>全関門を突破し、最深部の敵を討て！</source>
+        <target>全関門を突破し、最深部の敵を討て！</target>
+      </trans-unit>
+      <trans-unit id="829">
+        <source>ギルガメを捕獲せよ！</source>
+        <target>ギルガメを捕獲せよ！</target>
+      </trans-unit>
+      <trans-unit id="830">
+        <source>有毒妖花を駆除せよ！</source>
+        <target>有毒妖花を駆除せよ！</target>
+      </trans-unit>
+      <trans-unit id="831">
+        <source>無法者「似我蜂団」を撃滅せよ！</source>
+        <target>無法者「似我蜂団」を撃滅せよ！</target>
+      </trans-unit>
+      <trans-unit id="832">
+        <source>夢幻のブラキシオを討て！</source>
+        <target>夢幻のブラキシオを討て！</target>
+      </trans-unit>
+      <trans-unit id="833">
+        <source>爆弾魔ゴブリン軍団を撃滅せよ！</source>
+        <target>爆弾魔ゴブリン軍団を撃滅せよ！</target>
+      </trans-unit>
+      <trans-unit id="834">
+        <source>汚染源モルボルを討て！</source>
+        <target>汚染源モルボルを討て！</target>
+      </trans-unit>
+      <trans-unit id="835">
+        <source>坑道に現れた妖異ブソを討て！</source>
+        <target>坑道に現れた妖異ブソを討て！</target>
+      </trans-unit>
+      <trans-unit id="836">
+        <source>無敵の眷属を従えし、大型妖異を討て！</source>
+        <target>無敵の眷属を従えし、大型妖異を討て！</target>
+      </trans-unit>
+      <trans-unit id="837">
+        <source>ボムを率いる「ボムクイーン」を討て！</source>
+        <target>ボムを率いる「ボムクイーン」を討て！</target>
+      </trans-unit>
+      <trans-unit id="838">
+        <source>不気味な陣形を組む妖異をせん滅せよ！</source>
+        <target>不気味な陣形を組む妖異をせん滅せよ！</target>
+      </trans-unit>
+      <trans-unit id="839">
+        <source>三つ巴の巨人族を制し、遺物を守れ！</source>
+        <target>三つ巴の巨人族を制し、遺物を守れ！</target>
+      </trans-unit>
+      <trans-unit id="840">
+        <source>イフリート討伐戦</source>
+        <target>イフリート討伐戦</target>
+      </trans-unit>
+      <trans-unit id="841">
+        <source>タイタン討伐戦</source>
+        <target>タイタン討伐戦</target>
+      </trans-unit>
+      <trans-unit id="842">
+        <source>ガルーダ討伐戦</source>
+        <target>ガルーダ討伐戦</target>
+      </trans-unit>
+      <trans-unit id="843">
+        <source>真イフリート討滅戦</source>
+        <target>真イフリート討滅戦</target>
+      </trans-unit>
+      <trans-unit id="844">
+        <source>真タイタン討滅戦</source>
+        <target>真タイタン討滅戦</target>
+      </trans-unit>
+      <trans-unit id="845">
+        <source>真ガルーダ討滅戦</source>
+        <target>真ガルーダ討滅戦</target>
+      </trans-unit>
+      <trans-unit id="846">
+        <source>リットアティン強襲戦</source>
+        <target>リットアティン強襲戦</target>
+      </trans-unit>
+      <trans-unit id="847">
+        <source>大迷宮バハムート</source>
+        <target>大迷宮バハムート</target>
+      </trans-unit>
+      <trans-unit id="848">
+        <source>ウルヴズジェイル</source>
+        <target>ウルヴズジェイル</target>
+      </trans-unit>
+      <trans-unit id="849">
+        <source>極イフリート討滅戦</source>
+        <target>極イフリート討滅戦</target>
+      </trans-unit>
+      <trans-unit id="850">
+        <source>極タイタン討滅戦</source>
+        <target>極タイタン討滅戦</target>
+      </trans-unit>
+      <trans-unit id="851">
+        <source>極ガルーダ討滅戦</source>
+        <target>極ガルーダ討滅戦</target>
+      </trans-unit>
+      <trans-unit id="852">
+        <source>善王モグル・モグXII世討滅戦</source>
+        <target>善王モグル・モグXII世討滅戦</target>
+      </trans-unit>
+      <trans-unit id="853">
+        <source>アルテマウェポン破壊作戦</source>
+        <target>アルテマウェポン破壊作戦</target>
+      </trans-unit>
+      <trans-unit id="854">
+        <source>クリスタルタワー</source>
+        <target>クリスタルタワー</target>
+      </trans-unit>
+      <trans-unit id="855">
+        <source>邂逅編</source>
+        <target>邂逅編</target>
+      </trans-unit>
+      <trans-unit id="856">
+        <source>古代の民の迷宮</source>
+        <target>古代の民の迷宮</target>
+      </trans-unit>
+      <trans-unit id="857">
+        <source>ディサイファー</source>
+        <target>ディサイファー</target>
+      </trans-unit>
+      <trans-unit id="858">
+        <source>ハードモード</source>
+        <target>ハードモード</target>
+      </trans-unit>
+      <trans-unit id="859">
+        <source>コンテンツルーレット</source>
+        <target>コンテンツルーレット</target>
+      </trans-unit>
+      <trans-unit id="860">
+        <source>侵攻編</source>
+        <target>侵攻編</target>
+      </trans-unit>
+      <trans-unit id="861">
+        <source>シリウス大灯台</source>
+        <target>シリウス大灯台</target>
+      </trans-unit>
+      <trans-unit id="862">
+        <source>極王モグル・モグXII世討滅戦</source>
+        <target>極王モグル・モグXII世討滅戦</target>
+      </trans-unit>
+      <trans-unit id="863">
+        <source>真リヴァイアサン討滅戦</source>
+        <target>真リヴァイアサン討滅戦</target>
+      </trans-unit>
+      <trans-unit id="864">
+        <source>極リヴァイアサン討滅戦</source>
+        <target>極リヴァイアサン討滅戦</target>
+      </trans-unit>
+      <trans-unit id="865">
+        <source>ドルムキマイラ討伐戦</source>
+        <target>ドルムキマイラ討伐戦</target>
+      </trans-unit>
+      <trans-unit id="866">
+        <source>ハイドラ討伐戦</source>
+        <target>ハイドラ討伐戦</target>
+      </trans-unit>
+      <trans-unit id="867">
+        <source>ギルガメッシュ討伐戦</source>
+        <target>ギルガメッシュ討伐戦</target>
+      </trans-unit>
+      <trans-unit id="868">
+        <source>PvP</source>
+        <target>PvP</target>
+      </trans-unit>
+      <trans-unit id="869">
+        <source>友好部族クエスト</source>
+        <target>友好部族クエスト</target>
+      </trans-unit>
+      <trans-unit id="870">
+        <source>友好部族デイリークエスト</source>
+        <target>友好部族デイリークエスト</target>
+      </trans-unit>
+      <trans-unit id="871">
+        <source>友好部族ストーリークエスト</source>
+        <target>友好部族ストーリークエスト</target>
+      </trans-unit>
+      <trans-unit id="872">
+        <source>サブストーリークエスト</source>
+        <target>サブストーリークエスト</target>
+      </trans-unit>
+      <trans-unit id="873">
+        <source>トレジャーハント</source>
+        <target>トレジャーハント</target>
+      </trans-unit>
+      <trans-unit id="874">
+        <source>クロニクルクエスト</source>
+        <target>クロニクルクエスト</target>
+      </trans-unit>
+      <trans-unit id="875">
+        <source>シーズナルイベント</source>
+        <target>シーズナルイベント</target>
+      </trans-unit>
+      <trans-unit id="876">
+        <source>古アムダプール市街</source>
+        <target>古アムダプール市街</target>
+      </trans-unit>
+      <trans-unit id="877">
+        <source>黄道十二文書</source>
+        <target>黄道十二文書</target>
+      </trans-unit>
+      <trans-unit id="878">
+        <source>スフィアスクロール</source>
+        <target>スフィアスクロール</target>
+      </trans-unit>
+      <trans-unit id="879">
+        <source>モブハント</source>
+        <target>モブハント</target>
+      </trans-unit>
+      <trans-unit id="880">
+        <source>リスキーモブ</source>
+        <target>リスキーモブ</target>
+      </trans-unit>
+      <trans-unit id="881">
+        <source>真ラムウ討滅戦</source>
+        <target>真ラムウ討滅戦</target>
+      </trans-unit>
+      <trans-unit id="882">
+        <source>極ラムウ討滅戦</source>
+        <target>極ラムウ討滅戦</target>
+      </trans-unit>
+      <trans-unit id="883">
+        <source>シルクスの塔</source>
+        <target>シルクスの塔</target>
+      </trans-unit>
+      <trans-unit id="884">
+        <source>大迷宮バハムート零式</source>
+        <target>大迷宮バハムート零式</target>
+      </trans-unit>
+      <trans-unit id="885">
+        <source>カルテノー平原</source>
+        <target>カルテノー平原</target>
+      </trans-unit>
+      <trans-unit id="886">
+        <source>ハルブレーカー・アイル</source>
+        <target>ハルブレーカー・アイル</target>
+      </trans-unit>
+      <trans-unit id="887">
+        <source>フロントライン</source>
+        <target>フロントライン</target>
+      </trans-unit>
+      <trans-unit id="888">
+        <source>エキスパート</source>
+        <target>エキスパート</target>
+      </trans-unit>
+      <trans-unit id="889">
+        <source>真成編</source>
+        <target>真成編</target>
+      </trans-unit>
+      <trans-unit id="890">
+        <source>真シヴァ討滅戦</source>
+        <target>真シヴァ討滅戦</target>
+      </trans-unit>
+      <trans-unit id="891">
+        <source>極シヴァ討滅戦</source>
+        <target>極シヴァ討滅戦</target>
+      </trans-unit>
+      <trans-unit id="892">
+        <source>スノークローク大氷壁</source>
+        <target>スノークローク大氷壁</target>
+      </trans-unit>
+      <trans-unit id="893">
+        <source>アマジナ杯闘技会決勝戦</source>
+        <target>アマジナ杯闘技会決勝戦</target>
+      </trans-unit>
+      <trans-unit id="894">
+        <source>納品クエスト</source>
+        <target>納品クエスト</target>
+      </trans-unit>
+      <trans-unit id="895">
+        <source>闘神オーディン討滅戦</source>
+        <target>闘神オーディン討滅戦</target>
+      </trans-unit>
+      <trans-unit id="896">
+        <source>闇の世界</source>
+        <target>闇の世界</target>
+      </trans-unit>
+      <trans-unit id="897">
+        <source>外縁遺跡群 (制圧戦)</source>
+        <target>外縁遺跡群 (制圧戦)</target>
+      </trans-unit>
+      <trans-unit id="898">
+        <source>黙約の塔</source>
+        <target>黙約の塔</target>
+      </trans-unit>
+      <trans-unit id="899">
+        <source>真ギルガメッシュ討滅戦</source>
+        <target>真ギルガメッシュ討滅戦</target>
+      </trans-unit>
+      <trans-unit id="900">
+        <source>アシエン</source>
+        <target>アシエン</target>
+      </trans-unit>
+      <trans-unit id="901">
+        <source>ヴォイド</source>
+        <target>ヴォイド</target>
+      </trans-unit>
+      <trans-unit id="902">
+        <source>グブラ幻想図書館</source>
+        <target>グブラ幻想図書館</target>
+      </trans-unit>
+      <trans-unit id="903">
+        <source>ネバーリープ</source>
+        <target>ネバーリープ</target>
+      </trans-unit>
+      <trans-unit id="904">
+        <source>イシュガルド教皇庁</source>
+        <target>イシュガルド教皇庁</target>
+      </trans-unit>
+      <trans-unit id="905">
+        <source>フラクタル・コンティニアム</source>
+        <target>フラクタル・コンティニアム</target>
+      </trans-unit>
+      <trans-unit id="906">
+        <source>ダスクヴィジル</source>
+        <target>ダスクヴィジル</target>
+      </trans-unit>
+      <trans-unit id="907">
+        <source>ソーム・アル</source>
+        <target>ソーム・アル</target>
+      </trans-unit>
+      <trans-unit id="908">
+        <source>魔科学研究所</source>
+        <target>魔科学研究所</target>
+      </trans-unit>
+      <trans-unit id="909">
+        <source>ドラゴンズエアリー</source>
+        <target>ドラゴンズエアリー</target>
+      </trans-unit>
+      <trans-unit id="910">
+        <source>真ラーヴァナ討滅戦</source>
+        <target>真ラーヴァナ討滅戦</target>
+      </trans-unit>
+      <trans-unit id="911">
+        <source>極ラーヴァナ討滅戦</source>
+        <target>極ラーヴァナ討滅戦</target>
+      </trans-unit>
+      <trans-unit id="912">
+        <source>真ビスマルク討滅戦</source>
+        <target>真ビスマルク討滅戦</target>
+      </trans-unit>
+      <trans-unit id="913">
+        <source>極ビスマルク討滅戦</source>
+        <target>極ビスマルク討滅戦</target>
+      </trans-unit>
+      <trans-unit id="914">
+        <source>シールロック (争奪戦)</source>
+        <target>シールロック (争奪戦)</target>
+      </trans-unit>
+      <trans-unit id="915">
+        <source>機工城アレキサンダー</source>
+        <target>機工城アレキサンダー</target>
+      </trans-unit>
+      <trans-unit id="916">
+        <source>機工城アレキサンダー零式</source>
+        <target>機工城アレキサンダー零式</target>
+      </trans-unit>
+      <trans-unit id="917">
+        <source>起動編</source>
+        <target>起動編</target>
+      </trans-unit>
+      <trans-unit id="918">
+        <source>アシエン・ナプリアレス討伐戦</source>
+        <target>アシエン・ナプリアレス討伐戦</target>
+      </trans-unit>
+      <trans-unit id="919">
+        <source>皇都イシュガルド防衛戦</source>
+        <target>皇都イシュガルド防衛戦</target>
+      </trans-unit>
+      <trans-unit id="920">
+        <source>ナイツ・オブ・ラウンド討滅戦</source>
+        <target>ナイツ・オブ・ラウンド討滅戦</target>
+      </trans-unit>
+      <trans-unit id="921">
+        <source>神殿騎士団リーヴ</source>
+        <target>神殿騎士団リーヴ</target>
+      </trans-unit>
+      <trans-unit id="922">
+        <source>聖モシャーヌ植物園</source>
+        <target>聖モシャーヌ植物園</target>
+      </trans-unit>
+      <trans-unit id="923">
+        <source>シャドウ・オブ・マハ</source>
+        <target>シャドウ・オブ・マハ</target>
+      </trans-unit>
+      <trans-unit id="924">
+        <source>魔航船ヴォイドアーク</source>
+        <target>魔航船ヴォイドアーク</target>
+      </trans-unit>
+      <trans-unit id="925">
+        <source>初心者の館</source>
+        <target>初心者の館</target>
+      </trans-unit>
+      <trans-unit id="926">
+        <source>逆さの塔</source>
+        <target>逆さの塔</target>
+      </trans-unit>
+      <trans-unit id="927">
+        <source>律動編</source>
+        <target>律動編</target>
+      </trans-unit>
+      <trans-unit id="928">
+        <source>魔神セフィロト討滅戦</source>
+        <target>魔神セフィロト討滅戦</target>
+      </trans-unit>
+      <trans-unit id="929">
+        <source>極魔神セフィロト討滅戦</source>
+        <target>極魔神セフィロト討滅戦</target>
+      </trans-unit>
+      <trans-unit id="930">
+        <source>ザ・フィースト</source>
+        <target>ザ・フィースト</target>
+      </trans-unit>
+      <trans-unit id="931">
+        <source>木人討滅戦</source>
+        <target>木人討滅戦</target>
+      </trans-unit>
+      <trans-unit id="932">
+        <source>ソール・カイ</source>
+        <target>ソール・カイ</target>
+      </trans-unit>
+      <trans-unit id="933">
+        <source>禁忌都市マハ</source>
+        <target>禁忌都市マハ</target>
+      </trans-unit>
+      <trans-unit id="934">
+        <source>ディープダンジョン</source>
+        <target>ディープダンジョン</target>
+      </trans-unit>
+      <trans-unit id="935">
+        <source>死者の宮殿</source>
+        <target>死者の宮殿</target>
+      </trans-unit>
+      <trans-unit id="936">
+        <source>ニーズヘッグ征竜戦</source>
+        <target>ニーズヘッグ征竜戦</target>
+      </trans-unit>
+      <trans-unit id="937">
+        <source>極ニーズヘッグ征竜戦</source>
+        <target>極ニーズヘッグ征竜戦</target>
+      </trans-unit>
+      <trans-unit id="938">
+        <source>フィールド・オブ・グローリー (砕氷戦)</source>
+        <target>フィールド・オブ・グローリー (砕氷戦)</target>
+      </trans-unit>
+      <trans-unit id="939">
+        <source>デュエル</source>
+        <target>デュエル</target>
+      </trans-unit>
+      <trans-unit id="940">
+        <source>ゼルファトル</source>
+        <target>ゼルファトル</target>
+      </trans-unit>
+      <trans-unit id="941">
+        <source>女神ソフィア討滅戦</source>
+        <target>女神ソフィア討滅戦</target>
+      </trans-unit>
+      <trans-unit id="942">
+        <source>極女神ソフィア討滅戦</source>
+        <target>極女神ソフィア討滅戦</target>
+      </trans-unit>
+      <trans-unit id="943">
+        <source>天動編</source>
+        <target>天動編</target>
+      </trans-unit>
+      <trans-unit id="944">
+        <source>バエサルの長城</source>
+        <target>バエサルの長城</target>
+      </trans-unit>
+      <trans-unit id="945">
+        <source>影の国ダン・スカー</source>
+        <target>影の国ダン・スカー</target>
+      </trans-unit>
+      <trans-unit id="946">
+        <source>鬼神ズルワーン討滅戦</source>
+        <target>鬼神ズルワーン討滅戦</target>
+      </trans-unit>
+      <trans-unit id="947">
+        <source>極鬼神ズルワーン討滅戦</source>
+        <target>極鬼神ズルワーン討滅戦</target>
+      </trans-unit>
+      <trans-unit id="948">
+        <source>紫水宮</source>
+        <target>紫水宮</target>
+      </trans-unit>
+      <trans-unit id="949">
+        <source>バルダム覇道</source>
+        <target>バルダム覇道</target>
+      </trans-unit>
+      <trans-unit id="950">
+        <source>ドマ城</source>
+        <target>ドマ城</target>
+      </trans-unit>
+      <trans-unit id="951">
+        <source>カストルム・アバニア</source>
+        <target>カストルム・アバニア</target>
+      </trans-unit>
+      <trans-unit id="952">
+        <source>スサノオ討滅戦</source>
+        <target>スサノオ討滅戦</target>
+      </trans-unit>
+      <trans-unit id="953">
+        <source>極スサノオ討滅戦</source>
+        <target>極スサノオ討滅戦</target>
+      </trans-unit>
+      <trans-unit id="954">
+        <source>ラクシュミ討滅戦</source>
+        <target>ラクシュミ討滅戦</target>
+      </trans-unit>
+      <trans-unit id="955">
+        <source>極ラクシュミ討滅戦</source>
+        <target>極ラクシュミ討滅戦</target>
+      </trans-unit>
+      <trans-unit id="956">
+        <source>神龍討滅戦</source>
+        <target>神龍討滅戦</target>
+      </trans-unit>
+      <trans-unit id="957">
+        <source>次元の狭間オメガ</source>
+        <target>次元の狭間オメガ</target>
+      </trans-unit>
+      <trans-unit id="958">
+        <source>次元の狭間オメガ零式</source>
+        <target>次元の狭間オメガ零式</target>
+      </trans-unit>
+      <trans-unit id="959">
+        <source>デルタ編</source>
+        <target>デルタ編</target>
+      </trans-unit>
+      <trans-unit id="960">
+        <source>星導山寺院</source>
+        <target>星導山寺院</target>
+      </trans-unit>
+      <trans-unit id="961">
+        <source>スカラ</source>
+        <target>スカラ</target>
+      </trans-unit>
+      <trans-unit id="962">
+        <source>極神龍討滅戦</source>
+        <target>極神龍討滅戦</target>
+      </trans-unit>
+      <trans-unit id="963">
+        <source>アライアンスレイド</source>
+        <target>アライアンスレイド</target>
+      </trans-unit>
+      <trans-unit id="964">
+        <source>リターン・トゥ・イヴァリース</source>
+        <target>リターン・トゥ・イヴァリース</target>
+      </trans-unit>
+      <trans-unit id="965">
+        <source>失われた都 ラバナスタ</source>
+        <target>失われた都 ラバナスタ</target>
+      </trans-unit>
+      <trans-unit id="966">
+        <source>絶バハムート討滅戦</source>
+        <target>絶バハムート討滅戦</target>
+      </trans-unit>
+      <trans-unit id="967">
+        <source>ライバルウィングズ</source>
+        <target>ライバルウィングズ</target>
+      </trans-unit>
+      <trans-unit id="968">
+        <source>アストラガロス (機工戦)</source>
+        <target>アストラガロス (機工戦)</target>
+      </trans-unit>
+      <trans-unit id="969">
+        <source>獄之蓋</source>
+        <target>獄之蓋</target>
+      </trans-unit>
+      <trans-unit id="970">
+        <source>白虎征魂戦</source>
+        <target>白虎征魂戦</target>
+      </trans-unit>
+      <trans-unit id="971">
+        <source>極白虎征魂戦</source>
+        <target>極白虎征魂戦</target>
+      </trans-unit>
+      <trans-unit id="972">
+        <source>シグマ編</source>
+        <target>シグマ編</target>
+      </trans-unit>
+      <trans-unit id="973">
+        <source>禁断の地 エウレカ</source>
+        <target>禁断の地 エウレカ</target>
+      </trans-unit>
+      <trans-unit id="974">
+        <source>アネモス編</source>
+        <target>アネモス編</target>
+      </trans-unit>
+      <trans-unit id="975">
+        <source>マウント</source>
+        <target>マウント</target>
+      </trans-unit>
+      <trans-unit id="976">
+        <source>クラス・ジョブ</source>
+        <target>クラス・ジョブ</target>
+      </trans-unit>
+      <trans-unit id="977">
+        <source>地名</source>
+        <target>地名</target>
+      </trans-unit>
+      <trans-unit id="978">
+        <source>民族</source>
+        <target>民族</target>
+      </trans-unit>
+      <trans-unit id="979">
+        <source>部族</source>
+        <target>部族</target>
+      </trans-unit>
+      <trans-unit id="980">
+        <source>守護神</source>
+        <target>守護神</target>
+      </trans-unit>
+      <trans-unit id="981">
+        <source>ジェネラルアクション</source>
+        <target>ジェネラルアクション</target>
+      </trans-unit>
+      <trans-unit id="982">
+        <source>アクション</source>
+        <target>アクション</target>
+      </trans-unit>
+      <trans-unit id="983">
+        <source>製作アクション</source>
+        <target>製作アクション</target>
+      </trans-unit>
+      <trans-unit id="984">
+        <source>バディアクション</source>
+        <target>バディアクション</target>
+      </trans-unit>
+      <trans-unit id="985">
+        <source>ペットアクション</source>
+        <target>ペットアクション</target>
+      </trans-unit>
+      <trans-unit id="986">
+        <source>天候</source>
+        <target>天候</target>
+      </trans-unit>
+      <trans-unit id="987">
+        <source>メインコマンド</source>
+        <target>メインコマンド</target>
+      </trans-unit>
+      <trans-unit id="988">
+        <source>テキストコマンド</source>
+        <target>テキストコマンド</target>
+      </trans-unit>
+      <trans-unit id="989">
+        <source>PvPアクション</source>
+        <target>PvPアクション</target>
+      </trans-unit>
+      <trans-unit id="990">
+        <source>ペット</source>
+        <target>ペット</target>
+      </trans-unit>
+      <trans-unit id="991">
+        <source>ミニオン</source>
+        <target>ミニオン</target>
+      </trans-unit>
+      <trans-unit id="992">
+        <source>エギの見た目</source>
+        <target>エギの見た目</target>
+      </trans-unit>
+      <trans-unit id="993">
+        <source>PvPコンボアクション</source>
+        <target>PvPコンボアクション</target>
+      </trans-unit>
+      <trans-unit id="994">
+        <source>ロゴスアクション</source>
+        <target>ロゴスアクション</target>
+      </trans-unit>
+      <trans-unit id="995">
+        <source>青魔法</source>
+        <target>青魔法</target>
+      </trans-unit>
+      <trans-unit id="996">
+        <source>ロストアクション</source>
+        <target>ロストアクション</target>
+      </trans-unit>
+      <trans-unit id="997">
+        <source>ジョブHUD</source>
+        <target>ジョブHUD</target>
+      </trans-unit>
+      <trans-unit id="998">
+        <source>オウスゲージ</source>
+        <target>オウスゲージ</target>
+      </trans-unit>
+      <trans-unit id="999">
+        <source>オウス</source>
+        <target>オウス</target>
+      </trans-unit>
+      <trans-unit id="1000">
+        <source>闘気シンボル</source>
+        <target>闘気シンボル</target>
+      </trans-unit>
+      <trans-unit id="1001">
+        <source>ビーストゲージ</source>
+        <target>ビーストゲージ</target>
+      </trans-unit>
+      <trans-unit id="1002">
+        <source>インナービースト</source>
+        <target>インナービースト</target>
+      </trans-unit>
+      <trans-unit id="1003">
+        <source>竜血ゲージ</source>
+        <target>竜血ゲージ</target>
+      </trans-unit>
+      <trans-unit id="1004">
+        <source>ドラゴンアイ</source>
+        <target>ドラゴンアイ</target>
+      </trans-unit>
+      <trans-unit id="1005">
+        <source>戦歌ゲージ</source>
+        <target>戦歌ゲージ</target>
+      </trans-unit>
+      <trans-unit id="1006">
+        <source>詩心</source>
+        <target>詩心</target>
+      </trans-unit>
+      <trans-unit id="1007">
+        <source>ヒーリングケーン</source>
+        <target>ヒーリングケーン</target>
+      </trans-unit>
+      <trans-unit id="1008">
+        <source>ヒーリングリリー</source>
+        <target>ヒーリングリリー</target>
+      </trans-unit>
+      <trans-unit id="1009">
+        <source>エレメンタルゲージ</source>
+        <target>エレメンタルゲージ</target>
+      </trans-unit>
+      <trans-unit id="1010">
+        <source>アンブラルハート</source>
+        <target>アンブラルハート</target>
+      </trans-unit>
+      <trans-unit id="1011">
+        <source>エーテルフローシンボル</source>
+        <target>エーテルフローシンボル</target>
+      </trans-unit>
+      <trans-unit id="1012">
+        <source>バハムートエーテル</source>
+        <target>バハムートエーテル</target>
+      </trans-unit>
+      <trans-unit id="1013">
+        <source>トランスゲージ</source>
+        <target>トランスゲージ</target>
+      </trans-unit>
+      <trans-unit id="1014">
+        <source>エーテルゲージ</source>
+        <target>エーテルゲージ</target>
+      </trans-unit>
+      <trans-unit id="1015">
+        <source>フェイエーテル</source>
+        <target>フェイエーテル</target>
+      </trans-unit>
+      <trans-unit id="1016">
+        <source>風遁シンボル</source>
+        <target>風遁シンボル</target>
+      </trans-unit>
+      <trans-unit id="1017">
+        <source>忍気ゲージ</source>
+        <target>忍気ゲージ</target>
+      </trans-unit>
+      <trans-unit id="1018">
+        <source>忍気</source>
+        <target>忍気</target>
+      </trans-unit>
+      <trans-unit id="1019">
+        <source>ヒートゲージ</source>
+        <target>ヒートゲージ</target>
+      </trans-unit>
+      <trans-unit id="1020">
+        <source>オーバーヒート</source>
+        <target>オーバーヒート</target>
+      </trans-unit>
+      <trans-unit id="1021">
+        <source>ブラッドゲージ</source>
+        <target>ブラッドゲージ</target>
+      </trans-unit>
+      <trans-unit id="1022">
+        <source>アルカナシンボル</source>
+        <target>アルカナシンボル</target>
+      </trans-unit>
+      <trans-unit id="1023">
+        <source>雪月花シンボル</source>
+        <target>雪月花シンボル</target>
+      </trans-unit>
+      <trans-unit id="1024">
+        <source>閃</source>
+        <target>閃</target>
+      </trans-unit>
+      <trans-unit id="1025">
+        <source>剣気ゲージ</source>
+        <target>剣気ゲージ</target>
+      </trans-unit>
+      <trans-unit id="1026">
+        <source>剣気</source>
+        <target>剣気</target>
+      </trans-unit>
+      <trans-unit id="1027">
+        <source>バランスゲージ</source>
+        <target>バランスゲージ</target>
+      </trans-unit>
+      <trans-unit id="1028">
+        <source>ホワイトマナ</source>
+        <target>ホワイトマナ</target>
+      </trans-unit>
+      <trans-unit id="1029">
+        <source>ブラックマナ</source>
+        <target>ブラックマナ</target>
+      </trans-unit>
+      <trans-unit id="1030">
+        <source>ダークサイドシンボル</source>
+        <target>ダークサイドシンボル</target>
+      </trans-unit>
+      <trans-unit id="1031">
+        <source>ブラッドリリー</source>
+        <target>ブラッドリリー</target>
+      </trans-unit>
+      <trans-unit id="1032">
+        <source>エンジニアゲージ</source>
+        <target>エンジニアゲージ</target>
+      </trans-unit>
+      <trans-unit id="1033">
+        <source>バッテリーゲージ</source>
+        <target>バッテリーゲージ</target>
+      </trans-unit>
+      <trans-unit id="1034">
+        <source>ソイルシンボル</source>
+        <target>ソイルシンボル</target>
+      </trans-unit>
+      <trans-unit id="1035">
+        <source>ステップシンボル</source>
+        <target>ステップシンボル</target>
+      </trans-unit>
+      <trans-unit id="1036">
+        <source>幻扇シンボル</source>
+        <target>幻扇シンボル</target>
+      </trans-unit>
+      <trans-unit id="1037">
+        <source>剣圧シンボル</source>
+        <target>剣圧シンボル</target>
+      </trans-unit>
+      <trans-unit id="1038">
+        <source>ソウルゲージ</source>
+        <target>ソウルゲージ</target>
+      </trans-unit>
+      <trans-unit id="1039">
+        <source>レムールシンボル</source>
+        <target>レムールシンボル</target>
+      </trans-unit>
+      <trans-unit id="1040">
+        <source>エウクラシアシンボル</source>
+        <target>エウクラシアシンボル</target>
+      </trans-unit>
+      <trans-unit id="1041">
+        <source>アダーゲージ</source>
+        <target>アダーゲージ</target>
+      </trans-unit>
+      <trans-unit id="1042">
+        <source>必殺技シンボル</source>
+        <target>必殺技シンボル</target>
+      </trans-unit>
+      <trans-unit id="1043">
+        <source>マナスタックシンボル</source>
+        <target>マナスタックシンボル</target>
+      </trans-unit>
+      <trans-unit id="1044">
+        <source>エスプリゲージ</source>
+        <target>エスプリゲージ</target>
+      </trans-unit>
+      <trans-unit id="1045">
+        <source>コーダシンボル</source>
+        <target>コーダシンボル</target>
+      </trans-unit>
+      <trans-unit id="1046">
+        <source>ソウルボイスゲージ</source>
+        <target>ソウルボイスゲージ</target>
+      </trans-unit>
+      <trans-unit id="1047">
+        <source>パラドックスシンボル</source>
+        <target>パラドックスシンボル</target>
+      </trans-unit>
+      <trans-unit id="1048">
+        <source>アダーガル</source>
+        <target>アダーガル</target>
+      </trans-unit>
+      <trans-unit id="1049">
+        <source>アダースティング</source>
+        <target>アダースティング</target>
+      </trans-unit>
+      <trans-unit id="1050">
+        <source>ダークアーツ</source>
+        <target>ダークアーツ</target>
+      </trans-unit>
+      <trans-unit id="1051">
+        <source>ポリグロット</source>
+        <target>ポリグロット</target>
+      </trans-unit>
+      <trans-unit id="1052">
+        <source>剣圧</source>
+        <target>剣圧</target>
+      </trans-unit>
+      <trans-unit id="1053">
+        <source>アストロサイン</source>
+        <target>アストロサイン</target>
+      </trans-unit>
+      <trans-unit id="1054">
+        <source>チャクラ</source>
+        <target>チャクラ</target>
+      </trans-unit>
+      <trans-unit id="1055">
+        <source>闘気</source>
+        <target>闘気</target>
+      </trans-unit>
+      <trans-unit id="1056">
+        <source>シュラウド</source>
+        <target>シュラウド</target>
+      </trans-unit>
+      <trans-unit id="1057">
+        <source>シュラウドゲージ</source>
+        <target>シュラウドゲージ</target>
+      </trans-unit>
+      <trans-unit id="1058">
+        <source>エスプリ</source>
+        <target>エスプリ</target>
+      </trans-unit>
+      <trans-unit id="1059">
+        <source>ヴォイドソウル</source>
+        <target>ヴォイドソウル</target>
+      </trans-unit>
+      <trans-unit id="1060">
+        <source>レムールソウル</source>
+        <target>レムールソウル</target>
+      </trans-unit>
+      <trans-unit id="1061">
+        <source>ソウルボイス</source>
+        <target>ソウルボイス</target>
+      </trans-unit>
+      <trans-unit id="1062">
+        <source>ゴールドソーサー</source>
+        <target>ゴールドソーサー</target>
+      </trans-unit>
+      <trans-unit id="1063">
+        <source>チョコボレース</source>
+        <target>チョコボレース</target>
+      </trans-unit>
+      <trans-unit id="1064">
+        <source>競走羽</source>
+        <target>競走羽</target>
+      </trans-unit>
+      <trans-unit id="1065">
+        <source>新羽チョコボ</source>
+        <target>新羽チョコボ</target>
+      </trans-unit>
+      <trans-unit id="1066">
+        <source>引退チョコボ</source>
+        <target>引退チョコボ</target>
+      </trans-unit>
+      <trans-unit id="1067">
+        <source>カップリング</source>
+        <target>カップリング</target>
+      </trans-unit>
+      <trans-unit id="1068">
+        <source>総合力</source>
+        <target>総合力</target>
+      </trans-unit>
+      <trans-unit id="1069">
+        <source>血統レベル</source>
+        <target>血統レベル</target>
+      </trans-unit>
+      <trans-unit id="1070">
+        <source>コースルーレット</source>
+        <target>コースルーレット</target>
+      </trans-unit>
+      <trans-unit id="1071">
+        <source>サゴリーロード</source>
+        <target>サゴリーロード</target>
+      </trans-unit>
+      <trans-unit id="1072">
+        <source>トランキルパス</source>
+        <target>トランキルパス</target>
+      </trans-unit>
+      <trans-unit id="1073">
+        <source>トリプルトライアド</source>
+        <target>トリプルトライアド</target>
+      </trans-unit>
+      <trans-unit id="1074">
+        <source>カード</source>
+        <target>カード</target>
+      </trans-unit>
+      <trans-unit id="1075">
+        <source>カードタイプ</source>
+        <target>カードタイプ</target>
+      </trans-unit>
+      <trans-unit id="1076">
+        <source>レアリティ</source>
+        <target>レアリティ</target>
+      </trans-unit>
+      <trans-unit id="1077">
+        <source>対戦</source>
+        <target>対戦</target>
+      </trans-unit>
+      <trans-unit id="1078">
+        <source>大会</source>
+        <target>大会</target>
+      </trans-unit>
+      <trans-unit id="1079">
+        <source>トーナメント</source>
+        <target>トーナメント</target>
+      </trans-unit>
+      <trans-unit id="1080">
+        <source>勝ち点</source>
+        <target>勝ち点</target>
+      </trans-unit>
+      <trans-unit id="1081">
+        <source>特殊ルール</source>
+        <target>特殊ルール</target>
+      </trans-unit>
+      <trans-unit id="1082">
+        <source>流行ルール</source>
+        <target>流行ルール</target>
+      </trans-unit>
+      <trans-unit id="1083">
+        <source>対戦ルール</source>
+        <target>対戦ルール</target>
+      </trans-unit>
+      <trans-unit id="1084">
+        <source>大会ルール</source>
+        <target>大会ルール</target>
+      </trans-unit>
+      <trans-unit id="1085">
+        <source>オールオープン</source>
+        <target>オールオープン</target>
+      </trans-unit>
+      <trans-unit id="1086">
+        <source>スリーオープン</source>
+        <target>スリーオープン</target>
+      </trans-unit>
+      <trans-unit id="1087">
+        <source>セイム</source>
+        <target>セイム</target>
+      </trans-unit>
+      <trans-unit id="1088">
+        <source>サドンデス</source>
+        <target>サドンデス</target>
+      </trans-unit>
+      <trans-unit id="1089">
+        <source>プラス</source>
+        <target>プラス</target>
+      </trans-unit>
+      <trans-unit id="1090">
+        <source>ランダムハンド</source>
+        <target>ランダムハンド</target>
+      </trans-unit>
+      <trans-unit id="1091">
+        <source>オーダー</source>
+        <target>オーダー</target>
+      </trans-unit>
+      <trans-unit id="1092">
+        <source>カオス</source>
+        <target>カオス</target>
+      </trans-unit>
+      <trans-unit id="1093">
+        <source>リバース</source>
+        <target>リバース</target>
+      </trans-unit>
+      <trans-unit id="1094">
+        <source>エースキラー</source>
+        <target>エースキラー</target>
+      </trans-unit>
+      <trans-unit id="1095">
+        <source>タイプアセンド</source>
+        <target>タイプアセンド</target>
+      </trans-unit>
+      <trans-unit id="1096">
+        <source>タイプディセンド</source>
+        <target>タイプディセンド</target>
+      </trans-unit>
+      <trans-unit id="1097">
+        <source>スワップ</source>
+        <target>スワップ</target>
+      </trans-unit>
+      <trans-unit id="1098">
+        <source>ルーレット</source>
+        <target>ルーレット</target>
+      </trans-unit>
+      <trans-unit id="1099">
+        <source>デッキ</source>
+        <target>デッキ</target>
+      </trans-unit>
+      <trans-unit id="1100">
+        <source>希望ルール：</source>
+        <target>希望ルール：</target>
+      </trans-unit>
+      <trans-unit id="1101">
+        <source>GATE</source>
+        <target>GATE</target>
+      </trans-unit>
+      <trans-unit id="1102">
+        <source>くじテンダー</source>
+        <target>くじテンダー</target>
+      </trans-unit>
+      <trans-unit id="1103">
+        <source>ジャンボ・くじテンダー</source>
+        <target>ジャンボ・くじテンダー</target>
+      </trans-unit>
+      <trans-unit id="1104">
+        <source>ミニ・くじテンダー</source>
+        <target>ミニ・くじテンダー</target>
+      </trans-unit>
+      <trans-unit id="1105">
+        <source>当選番号</source>
+        <target>当選番号</target>
+      </trans-unit>
+      <trans-unit id="1106">
+        <source>ロード・オブ・ヴァーミニオン</source>
+        <target>ロード・オブ・ヴァーミニオン</target>
+      </trans-unit>
+      <trans-unit id="1107">
+        <source>施設特効</source>
+        <target>施設特効</target>
+      </trans-unit>
+      <trans-unit id="1108">
+        <source>アルカナストーン</source>
+        <target>アルカナストーン</target>
+      </trans-unit>
+      <trans-unit id="1109">
+        <source>ゲート</source>
+        <target>ゲート</target>
+      </trans-unit>
+      <trans-unit id="1110">
+        <source>シールド</source>
+        <target>シールド</target>
+      </trans-unit>
+      <trans-unit id="1111">
+        <source>サーチ・アイ</source>
+        <target>サーチ・アイ</target>
+      </trans-unit>
+      <trans-unit id="1112">
+        <source>アニマル</source>
+        <target>アニマル</target>
+      </trans-unit>
+      <trans-unit id="1113">
+        <source>ドール</source>
+        <target>ドール</target>
+      </trans-unit>
+      <trans-unit id="1114">
+        <source>ガジェット</source>
+        <target>ガジェット</target>
+      </trans-unit>
+      <trans-unit id="1115">
+        <source>特殊技</source>
+        <target>特殊技</target>
+      </trans-unit>
+      <trans-unit id="1116">
+        <source>トラップ</source>
+        <target>トラップ</target>
+      </trans-unit>
+      <trans-unit id="1117">
+        <source>暴風！はないきフンガー</source>
+        <target>暴風！はないきフンガー</target>
+      </trans-unit>
+      <trans-unit id="1118">
+        <source>救出！ミニオンレスキュー</source>
+        <target>救出！ミニオンレスキュー</target>
+      </trans-unit>
+      <trans-unit id="1119">
+        <source>コスタ・デル・ソル</source>
+        <target>コスタ・デル・ソル</target>
+      </trans-unit>
+      <trans-unit id="1120">
+        <source>モンスター</source>
+        <target>モンスター</target>
+      </trans-unit>
+      <trans-unit id="1121">
+        <source>挑戦！ジャンピングアスレチック</source>
+        <target>挑戦！ジャンピングアスレチック</target>
+      </trans-unit>
+      <trans-unit id="1122">
+        <source>出撃！エアフォースパイロット</source>
+        <target>出撃！エアフォースパイロット</target>
+      </trans-unit>
+      <trans-unit id="1123">
+        <source>ドマ式麻雀</source>
+        <target>ドマ式麻雀</target>
+      </trans-unit>
+      <trans-unit id="1124">
+        <source>一閃！ 斬魔・デ・三昧</source>
+        <target>一閃！ 斬魔・デ・三昧</target>
+      </trans-unit>
+      <trans-unit id="1125">
+        <source>状態変化</source>
+        <target>状態変化</target>
+      </trans-unit>
+      <trans-unit id="1126">
+        <source>麻痺</source>
+        <target>麻痺</target>
+      </trans-unit>
+      <trans-unit id="1127">
+        <source>沈黙</source>
+        <target>沈黙</target>
+      </trans-unit>
+      <trans-unit id="1128">
+        <source>スタン</source>
+        <target>スタン</target>
+      </trans-unit>
+      <trans-unit id="1129">
+        <source>睡眠</source>
+        <target>睡眠</target>
+      </trans-unit>
+      <trans-unit id="1130">
+        <source>ヘヴィ</source>
+        <target>ヘヴィ</target>
+      </trans-unit>
+      <trans-unit id="1131">
+        <source>石化</source>
+        <target>石化</target>
+      </trans-unit>
+      <trans-unit id="1132">
+        <source>魅了</source>
+        <target>魅了</target>
+      </trans-unit>
+      <trans-unit id="1133">
+        <source>吸収</source>
+        <target>吸収</target>
+      </trans-unit>
+      <trans-unit id="1134">
+        <source>拘束</source>
+        <target>拘束</target>
+      </trans-unit>
+      <trans-unit id="1135">
+        <source>変身</source>
+        <target>変身</target>
+      </trans-unit>
+      <trans-unit id="1136">
+        <source>毒</source>
+        <target>毒</target>
+      </trans-unit>
+      <trans-unit id="1137">
+        <source>ドラフト</source>
+        <target>ドラフト</target>
+      </trans-unit>
+      <trans-unit id="1138">
+        <source>オフィシャルトーナメント</source>
+        <target>オフィシャルトーナメント</target>
+      </trans-unit>
+      <trans-unit id="1139">
+        <source>内周</source>
+        <target>内周</target>
+      </trans-unit>
+      <trans-unit id="1140">
+        <source>外周</source>
+        <target>外周</target>
+      </trans-unit>
+      <trans-unit id="1141">
+        <source>時計回り</source>
+        <target>時計回り</target>
+      </trans-unit>
+      <trans-unit id="1142">
+        <source>反時計回り</source>
+        <target>反時計回り</target>
+      </trans-unit>
+      <trans-unit id="1143">
+        <source>攻撃スタンス</source>
+        <target>攻撃スタンス</target>
+      </trans-unit>
+      <trans-unit id="1144">
+        <source>防御スタンス</source>
+        <target>防御スタンス</target>
+      </trans-unit>
+      <trans-unit id="1145">
+        <source>予兆</source>
+        <target>予兆</target>
+      </trans-unit>
+      <trans-unit id="1146">
+        <source>視線</source>
+        <target>視線</target>
+      </trans-unit>
+      <trans-unit id="1147">
+        <source>円形</source>
+        <target>円形</target>
+      </trans-unit>
+      <trans-unit id="1148">
+        <source>扇状</source>
+        <target>扇状</target>
+      </trans-unit>
+      <trans-unit id="1149">
+        <source>対角線</source>
+        <target>対角線</target>
+      </trans-unit>
+      <trans-unit id="1150">
+        <source>直線</source>
+        <target>直線</target>
+      </trans-unit>
+      <trans-unit id="1151">
+        <source>ドーナツ範囲</source>
+        <target>ドーナツ範囲</target>
+      </trans-unit>
+      <trans-unit id="1152">
+        <source>線</source>
+        <target>線</target>
+      </trans-unit>
+      <trans-unit id="1153">
+        <source>球</source>
+        <target>球</target>
+      </trans-unit>
+      <trans-unit id="1154">
+        <source>地面</source>
+        <target>地面</target>
+      </trans-unit>
+      <trans-unit id="1155">
+        <source>壁</source>
+        <target>壁</target>
+      </trans-unit>
+      <trans-unit id="1156">
+        <source>柱</source>
+        <target>柱</target>
+      </trans-unit>
+      <trans-unit id="1157">
+        <source>岩</source>
+        <target>岩</target>
+      </trans-unit>
+      <trans-unit id="1158">
+        <source>炎</source>
+        <target>炎</target>
+      </trans-unit>
+      <trans-unit id="1159">
+        <source>水</source>
+        <target>水</target>
+      </trans-unit>
+      <trans-unit id="1160">
+        <source>氷</source>
+        <target>氷</target>
+      </trans-unit>
+      <trans-unit id="1161">
+        <source>爆発</source>
+        <target>爆発</target>
+      </trans-unit>
+      <trans-unit id="1162">
+        <source>同時</source>
+        <target>同時</target>
+      </trans-unit>
+      <trans-unit id="1163">
+        <source>交互</source>
+        <target>交互</target>
+      </trans-unit>
+      <trans-unit id="1164">
+        <source>合体</source>
+        <target>合体</target>
+      </trans-unit>
+      <trans-unit id="1165">
+        <source>集合</source>
+        <target>集合</target>
+      </trans-unit>
+      <trans-unit id="1166">
+        <source>散開</source>
+        <target>散開</target>
+      </trans-unit>
+      <trans-unit id="1167">
+        <source>頭割りダメージ</source>
+        <target>頭割りダメージ</target>
+      </trans-unit>
+      <trans-unit id="1168">
+        <source>反射ダメージ</source>
+        <target>反射ダメージ</target>
+      </trans-unit>
+      <trans-unit id="1169">
+        <source>継続ダメージ</source>
+        <target>継続ダメージ</target>
+      </trans-unit>
+      <trans-unit id="1170">
+        <source>モードチェンジ</source>
+        <target>モードチェンジ</target>
+      </trans-unit>
+      <trans-unit id="1171">
+        <source>フェーズ</source>
+        <target>フェーズ</target>
+      </trans-unit>
+      <trans-unit id="1172">
+        <source>スタックバフ</source>
+        <target>スタックバフ</target>
+      </trans-unit>
+      <trans-unit id="1173">
+        <source>スタックデバフ</source>
+        <target>スタックデバフ</target>
+      </trans-unit>
+      <trans-unit id="1174">
+        <source>ランダムターゲット</source>
+        <target>ランダムターゲット</target>
+      </trans-unit>
+      <trans-unit id="1175">
+        <source>ディープダンジョン</source>
+        <target>ディープダンジョン</target>
+      </trans-unit>
+      <trans-unit id="1176">
+        <source>転移の石塔</source>
+        <target>転移の石塔</target>
+      </trans-unit>
+      <trans-unit id="1177">
+        <source>再生の石塔</source>
+        <target>再生の石塔</target>
+      </trans-unit>
+      <trans-unit id="1178">
+        <source>魔土器:呪印解除</source>
+        <target>魔土器:呪印解除</target>
+      </trans-unit>
+      <trans-unit id="1179">
+        <source>魔土器:サイトロ</source>
+        <target>魔土器:サイトロ</target>
+      </trans-unit>
+      <trans-unit id="1180">
+        <source>魔土器:自己強化</source>
+        <target>魔土器:自己強化</target>
+      </trans-unit>
+      <trans-unit id="1181">
+        <source>魔土器:防御強化</source>
+        <target>魔土器:防御強化</target>
+      </trans-unit>
+      <trans-unit id="1182">
+        <source>魔土器:宝箱増加</source>
+        <target>魔土器:宝箱増加</target>
+      </trans-unit>
+      <trans-unit id="1183">
+        <source>魔土器:敵排除</source>
+        <target>魔土器:敵排除</target>
+      </trans-unit>
+      <trans-unit id="1184">
+        <source>魔土器:敵変化</source>
+        <target>魔土器:敵変化</target>
+      </trans-unit>
+      <trans-unit id="1185">
+        <source>魔土器:解呪</source>
+        <target>魔土器:解呪</target>
+      </trans-unit>
+      <trans-unit id="1186">
+        <source>魔土器:運気上昇</source>
+        <target>魔土器:運気上昇</target>
+      </trans-unit>
+      <trans-unit id="1187">
+        <source>魔土器:形態変化</source>
+        <target>魔土器:形態変化</target>
+      </trans-unit>
+      <trans-unit id="1188">
+        <source>魔土器:魔法効果解除</source>
+        <target>魔土器:魔法効果解除</target>
+      </trans-unit>
+      <trans-unit id="1189">
+        <source>魔土器:マンティコア化</source>
+        <target>魔土器:マンティコア化</target>
+      </trans-unit>
+      <trans-unit id="1190">
+        <source>魔土器:サキュバス化</source>
+        <target>魔土器:サキュバス化</target>
+      </trans-unit>
+      <trans-unit id="1191">
+        <source>魔土器:財宝感知</source>
+        <target>魔土器:財宝感知</target>
+      </trans-unit>
+      <trans-unit id="1192">
+        <source>魔土器:リレイズ</source>
+        <target>魔土器:リレイズ</target>
+      </trans-unit>
+      <trans-unit id="1193">
+        <source>魔土器:クリブ化</source>
+        <target>魔土器:クリブ化</target>
+      </trans-unit>
+      <trans-unit id="1194">
+        <source>魔土器:敵弱体</source>
+        <target>魔土器:敵弱体</target>
+      </trans-unit>
+      <trans-unit id="1195">
+        <source>魔土器:バニシュ</source>
+        <target>魔土器:バニシュ</target>
+      </trans-unit>
+      <trans-unit id="1196">
+        <source>魔土器:敵石化</source>
+        <target>魔土器:敵石化</target>
+      </trans-unit>
+      <trans-unit id="1197">
+        <source>イフリートの魔石</source>
+        <target>イフリートの魔石</target>
+      </trans-unit>
+      <trans-unit id="1198">
+        <source>タイタンの魔石</source>
+        <target>タイタンの魔石</target>
+      </trans-unit>
+      <trans-unit id="1199">
+        <source>ガルーダの魔石</source>
+        <target>ガルーダの魔石</target>
+      </trans-unit>
+      <trans-unit id="1200">
+        <source>オーディンの魔石</source>
+        <target>オーディンの魔石</target>
+      </trans-unit>
+      <trans-unit id="1201">
+        <source>転移の灯篭</source>
+        <target>転移の灯篭</target>
+      </trans-unit>
+      <trans-unit id="1202">
+        <source>再生の灯篭</source>
+        <target>再生の灯篭</target>
+      </trans-unit>
+      <trans-unit id="1203">
+        <source>再生装置</source>
+        <target>再生装置</target>
+      </trans-unit>
+      <trans-unit id="1204">
+        <source>転移装置</source>
+        <target>転移装置</target>
+      </trans-unit>
+      <trans-unit id="1205">
+        <source>デミクローン・ウネ</source>
+        <target>デミクローン・ウネ</target>
+      </trans-unit>
+      <trans-unit id="1206">
+        <source>デミクローン・ドーガ</source>
+        <target>デミクローン・ドーガ</target>
+      </trans-unit>
+      <trans-unit id="1207">
+        <source>デミクローン・オニオンナイト</source>
+        <target>デミクローン・オニオンナイト</target>
+      </trans-unit>
+      <trans-unit id="1208">
+        <source>魔科学器:スロウガ</source>
+        <target>魔科学器:スロウガ</target>
+      </trans-unit>
+      <trans-unit id="1209">
+        <source>魔科学器:ミールストーム</source>
+        <target>魔科学器:ミールストーム</target>
+      </trans-unit>
+      <trans-unit id="1210">
+        <source>魔科学器:ドレッドノート化</source>
+        <target>魔科学器:ドレッドノート化</target>
+      </trans-unit>
+      <trans-unit id="1211">
+        <source>魔科学器:呪印解除</source>
+        <target>魔科学器:呪印解除</target>
+      </trans-unit>
+      <trans-unit id="1212">
+        <source>魔科学器:サイトロ</source>
+        <target>魔科学器:サイトロ</target>
+      </trans-unit>
+      <trans-unit id="1213">
+        <source>魔科学器:自己強化</source>
+        <target>魔科学器:自己強化</target>
+      </trans-unit>
+      <trans-unit id="1214">
+        <source>魔科学器:防御強化</source>
+        <target>魔科学器:防御強化</target>
+      </trans-unit>
+      <trans-unit id="1215">
+        <source>魔科学器:宝箱増加</source>
+        <target>魔科学器:宝箱増加</target>
+      </trans-unit>
+      <trans-unit id="1216">
+        <source>魔科学器:敵排除</source>
+        <target>魔科学器:敵排除</target>
+      </trans-unit>
+      <trans-unit id="1217">
+        <source>魔科学器:敵変化</source>
+        <target>魔科学器:敵変化</target>
+      </trans-unit>
+      <trans-unit id="1218">
+        <source>魔科学器:解呪</source>
+        <target>魔科学器:解呪</target>
+      </trans-unit>
+      <trans-unit id="1219">
+        <source>魔科学器:運気上昇</source>
+        <target>魔科学器:運気上昇</target>
+      </trans-unit>
+      <trans-unit id="1220">
+        <source>魔科学器:形態変化</source>
+        <target>魔科学器:形態変化</target>
+      </trans-unit>
+      <trans-unit id="1221">
+        <source>魔科学器:魔法効果解除</source>
+        <target>魔科学器:魔法効果解除</target>
+      </trans-unit>
+      <trans-unit id="1222">
+        <source>魔科学器:財宝感知</source>
+        <target>魔科学器:財宝感知</target>
+      </trans-unit>
+      <trans-unit id="1223">
+        <source>魔科学器:リレイズ</source>
+        <target>魔科学器:リレイズ</target>
+      </trans-unit>
+      <trans-unit id="1224">
+        <source>マギアボード</source>
+        <target>マギアボード</target>
+      </trans-unit>
+      <trans-unit id="1225">
+        <source>マギアメルダー</source>
+        <target>マギアメルダー</target>
+      </trans-unit>
+      <trans-unit id="1226">
+        <source>魔晶石</source>
+        <target>魔晶石</target>
+      </trans-unit>
+      <trans-unit id="1227">
+        <source>属性値</source>
+        <target>属性値</target>
+      </trans-unit>
+      <trans-unit id="1228">
+        <source>エレメンタルレベル</source>
+        <target>エレメンタルレベル</target>
+      </trans-unit>
+      <trans-unit id="1229">
+        <source>ロゴスシャード</source>
+        <target>ロゴスシャード</target>
+      </trans-unit>
+      <trans-unit id="1230">
+        <source>ロゴスミキサー</source>
+        <target>ロゴスミキサー</target>
+      </trans-unit>
+      <trans-unit id="1231">
+        <source>ロゴスアクション</source>
+        <target>ロゴスアクション</target>
+      </trans-unit>
+      <trans-unit id="1232">
+        <source>エウレカウェポン</source>
+        <target>エウレカウェポン</target>
+      </trans-unit>
+      <trans-unit id="1233">
+        <source>カスタムマッチ</source>
+        <target>カスタムマッチ</target>
+      </trans-unit>
+      <trans-unit id="1234">
+        <source>MGP</source>
+        <target>MGP</target>
+      </trans-unit>
+      <trans-unit id="1235">
+        <source>ベンチャースクリップ</source>
+        <target>ベンチャースクリップ</target>
+      </trans-unit>
+      <trans-unit id="1236">
+        <source>お得意様取引</source>
+        <target>お得意様取引</target>
+      </trans-unit>
+      <trans-unit id="1237">
+        <source>イシュガルド復興</source>
+        <target>イシュガルド復興</target>
+      </trans-unit>
+      <trans-unit id="1238">
+        <source>オーシャンフィッシング</source>
+        <target>オーシャンフィッシング</target>
+      </trans-unit>
+      <trans-unit id="1239">
+        <source>スカイスチールツール</source>
+        <target>スカイスチールツール</target>
+      </trans-unit>
+      <trans-unit id="1240">
+        <source>ソーチョーの幻想盤</source>
+        <target>ソーチョーの幻想盤</target>
+      </trans-unit>
+      <trans-unit id="1241">
+        <source>ロストアクション</source>
+        <target>ロストアクション</target>
+      </trans-unit>
+      <trans-unit id="1242">
+        <source>ロストホルダー</source>
+        <target>ロストホルダー</target>
+      </trans-unit>
+      <trans-unit id="1243">
+        <source>ロストボックス</source>
+        <target>ロストボックス</target>
+      </trans-unit>
+      <trans-unit id="1244">
+        <source>ロストシャード</source>
+        <target>ロストシャード</target>
+      </trans-unit>
+      <trans-unit id="1245">
+        <source>戦果</source>
+        <target>戦果</target>
+      </trans-unit>
+      <trans-unit id="1246">
+        <source>レジスタンスランク</source>
+        <target>レジスタンスランク</target>
+      </trans-unit>
+      <trans-unit id="1247">
+        <source>自由探索</source>
+        <target>自由探索</target>
+      </trans-unit>
+      <trans-unit id="1248">
+        <source>ボズヤクラスター</source>
+        <target>ボズヤクラスター</target>
+      </trans-unit>
+      <trans-unit id="1249">
+        <source>ファッションアクセサリー</source>
+        <target>ファッションアクセサリー</target>
+      </trans-unit>
+      <trans-unit id="1250">
+        <source>レジスタンス・ウェポン</source>
+        <target>レジスタンス・ウェポン</target>
+      </trans-unit>
+      <trans-unit id="1251">
+        <source>ボズヤファインダー</source>
+        <target>ボズヤファインダー</target>
+      </trans-unit>
+      <trans-unit id="1252">
+        <source>Fête</source>
+        <target>Fête</target>
+      </trans-unit>
+      <trans-unit id="1253">
+        <source>アラガントームストーン:経典</source>
+        <target>アラガントームストーン:経典</target>
+      </trans-unit>
+      <trans-unit id="1254">
+        <source>アラガントームストーン:天文</source>
+        <target>アラガントームストーン:天文</target>
+      </trans-unit>
+      <trans-unit id="1255">
+        <source>愛用の見聞録</source>
+        <target>愛用の見聞録</target>
+      </trans-unit>
+      <trans-unit id="1256">
+        <source>トロフィークリスタル</source>
+        <target>トロフィークリスタル</target>
+      </trans-unit>
+      <trans-unit id="1257">
+        <source>ポートレート</source>
+        <target>ポートレート</target>
+      </trans-unit>
+      <trans-unit id="1258">
+        <source>アドベンチャラープレート</source>
+        <target>アドベンチャラープレート</target>
+      </trans-unit>
+      <trans-unit id="1259">
+        <source>無人島開拓</source>
+        <target>無人島開拓</target>
+      </trans-unit>
+      <trans-unit id="1260">
+        <source>アラガントームストーン:因果</source>
+        <target>アラガントームストーン:因果</target>
+      </trans-unit>
+      <trans-unit id="1261">
+        <source>マンダヴィルウェポン</source>
+        <target>マンダヴィルウェポン</target>
+      </trans-unit>
+      <trans-unit id="1262">
+        <source>モーエンツール</source>
+        <target>モーエンツール</target>
+      </trans-unit>
+      <trans-unit id="1263">
+        <source>ノーマルレイド</source>
+        <target>ノーマルレイド</target>
+      </trans-unit>
+      <trans-unit id="1264">
+        <source>デイリーチャレンジ</source>
+        <target>デイリーチャレンジ</target>
+      </trans-unit>
+      <trans-unit id="1265">
+        <source>ガンエン廟</source>
+        <target>ガンエン廟</target>
+      </trans-unit>
+      <trans-unit id="1266">
+        <source>封じられた聖塔 リドルアナ</source>
+        <target>封じられた聖塔 リドルアナ</target>
+      </trans-unit>
+      <trans-unit id="1267">
+        <source>ツクヨミ討滅戦</source>
+        <target>ツクヨミ討滅戦</target>
+      </trans-unit>
+      <trans-unit id="1268">
+        <source>極ツクヨミ討滅戦</source>
+        <target>極ツクヨミ討滅戦</target>
+      </trans-unit>
+      <trans-unit id="1269">
+        <source>絶アルテマウェポン破壊作戦</source>
+        <target>絶アルテマウェポン破壊作戦</target>
+      </trans-unit>
+      <trans-unit id="1270">
+        <source>アメノミハシラ</source>
+        <target>アメノミハシラ</target>
+      </trans-unit>
+      <trans-unit id="1271">
+        <source>リオレウス狩猟戦</source>
+        <target>リオレウス狩猟戦</target>
+      </trans-unit>
+      <trans-unit id="1272">
+        <source>極リオレウス狩猟戦</source>
+        <target>極リオレウス狩猟戦</target>
+      </trans-unit>
+      <trans-unit id="1273">
+        <source>パゴス編</source>
+        <target>パゴス編</target>
+      </trans-unit>
+      <trans-unit id="1274">
+        <source>セイレーン海</source>
+        <target>セイレーン海</target>
+      </trans-unit>
+      <trans-unit id="1275">
+        <source>アラミゴ</source>
+        <target>アラミゴ</target>
+      </trans-unit>
+      <trans-unit id="1276">
+        <source>蒼天幻想ナイツ・オブ・ラウンド討滅戦</source>
+        <target>蒼天幻想ナイツ・オブ・ラウンド討滅戦</target>
+      </trans-unit>
+      <trans-unit id="1277">
+        <source>ザ・バーン</source>
+        <target>ザ・バーン</target>
+      </trans-unit>
+      <trans-unit id="1278">
+        <source>朱雀征魂戦</source>
+        <target>朱雀征魂戦</target>
+      </trans-unit>
+      <trans-unit id="1279">
+        <source>極朱雀征魂戦</source>
+        <target>極朱雀征魂戦</target>
+      </trans-unit>
+      <trans-unit id="1280">
+        <source>アルファ編</source>
+        <target>アルファ編</target>
+      </trans-unit>
+      <trans-unit id="1281">
+        <source>ピューロス編</source>
+        <target>ピューロス編</target>
+      </trans-unit>
+      <trans-unit id="1282">
+        <source>クガネ城</source>
+        <target>クガネ城</target>
+      </trans-unit>
+      <trans-unit id="1283">
+        <source>ディアデム諸島</source>
+        <target>ディアデム諸島</target>
+      </trans-unit>
+      <trans-unit id="1284">
+        <source>ギムリトダーク</source>
+        <target>ギムリトダーク</target>
+      </trans-unit>
+      <trans-unit id="1285">
+        <source>青龍征魂戦</source>
+        <target>青龍征魂戦</target>
+      </trans-unit>
+      <trans-unit id="1286">
+        <source>極青龍征魂戦</source>
+        <target>極青龍征魂戦</target>
+      </trans-unit>
+      <trans-unit id="1287">
+        <source>楽欲の僧院 オーボンヌ</source>
+        <target>楽欲の僧院 オーボンヌ</target>
+      </trans-unit>
+      <trans-unit id="1288">
+        <source>ヒュダトス編</source>
+        <target>ヒュダトス編</target>
+      </trans-unit>
+      <trans-unit id="1289">
+        <source>ヒドゥンゴージ (機工戦)</source>
+        <target>ヒドゥンゴージ (機工戦)</target>
+      </trans-unit>
+      <trans-unit id="1290">
+        <source>ホルミンスター</source>
+        <target>ホルミンスター</target>
+      </trans-unit>
+      <trans-unit id="1291">
+        <source>ドォーヌ・メグ</source>
+        <target>ドォーヌ・メグ</target>
+      </trans-unit>
+      <trans-unit id="1292">
+        <source>キタンナ神影洞</source>
+        <target>キタンナ神影洞</target>
+      </trans-unit>
+      <trans-unit id="1293">
+        <source>マリカの大井戸</source>
+        <target>マリカの大井戸</target>
+      </trans-unit>
+      <trans-unit id="1294">
+        <source>グルグ火山</source>
+        <target>グルグ火山</target>
+      </trans-unit>
+      <trans-unit id="1295">
+        <source>アーモロート</source>
+        <target>アーモロート</target>
+      </trans-unit>
+      <trans-unit id="1296">
+        <source>シルクス・ツイニング</source>
+        <target>シルクス・ツイニング</target>
+      </trans-unit>
+      <trans-unit id="1297">
+        <source>アナイダアカデミア</source>
+        <target>アナイダアカデミア</target>
+      </trans-unit>
+      <trans-unit id="1298">
+        <source>ティターニア討滅戦</source>
+        <target>ティターニア討滅戦</target>
+      </trans-unit>
+      <trans-unit id="1299">
+        <source>極ティターニア討滅戦</source>
+        <target>極ティターニア討滅戦</target>
+      </trans-unit>
+      <trans-unit id="1300">
+        <source>イノセンス討滅戦</source>
+        <target>イノセンス討滅戦</target>
+      </trans-unit>
+      <trans-unit id="1301">
+        <source>極イノセンス討滅戦</source>
+        <target>極イノセンス討滅戦</target>
+      </trans-unit>
+      <trans-unit id="1302">
+        <source>ハーデス討滅戦</source>
+        <target>ハーデス討滅戦</target>
+      </trans-unit>
+      <trans-unit id="1303">
+        <source>希望の園エデン</source>
+        <target>希望の園エデン</target>
+      </trans-unit>
+      <trans-unit id="1304">
+        <source>希望の園エデン零式</source>
+        <target>希望の園エデン零式</target>
+      </trans-unit>
+      <trans-unit id="1305">
+        <source>覚醒編</source>
+        <target>覚醒編</target>
+      </trans-unit>
+      <trans-unit id="1306">
+        <source>真ヨウジンボウ討滅戦</source>
+        <target>真ヨウジンボウ討滅戦</target>
+      </trans-unit>
+      <trans-unit id="1307">
+        <source>バルデシオンアーセナル</source>
+        <target>バルデシオンアーセナル</target>
+      </trans-unit>
+      <trans-unit id="1308">
+        <source>グラン・コスモス</source>
+        <target>グラン・コスモス</target>
+      </trans-unit>
+      <trans-unit id="1309">
+        <source>極ハーデス討滅戦</source>
+        <target>極ハーデス討滅戦</target>
+      </trans-unit>
+      <trans-unit id="1310">
+        <source>絶アレキサンダー討滅戦</source>
+        <target>絶アレキサンダー討滅戦</target>
+      </trans-unit>
+      <trans-unit id="1311">
+        <source>複製サレタ工場廃墟</source>
+        <target>複製サレタ工場廃墟</target>
+      </trans-unit>
+      <trans-unit id="1312">
+        <source>オンサル・ハカイル (終節戦)</source>
+        <target>オンサル・ハカイル (終節戦)</target>
+      </trans-unit>
+      <trans-unit id="1313">
+        <source>アニドラス・アナムネーシス</source>
+        <target>アニドラス・アナムネーシス</target>
+      </trans-unit>
+      <trans-unit id="1314">
+        <source>共鳴編</source>
+        <target>共鳴編</target>
+      </trans-unit>
+      <trans-unit id="1315">
+        <source>ルビーウェポン破壊作戦</source>
+        <target>ルビーウェポン破壊作戦</target>
+      </trans-unit>
+      <trans-unit id="1316">
+        <source>極ルビーウェポン破壊作戦</source>
+        <target>極ルビーウェポン破壊作戦</target>
+      </trans-unit>
+      <trans-unit id="1317">
+        <source>極シタデル・ボズヤ追憶戦</source>
+        <target>極シタデル・ボズヤ追憶戦</target>
+      </trans-unit>
+      <trans-unit id="1318">
+        <source>南方ボズヤ戦線</source>
+        <target>南方ボズヤ戦線</target>
+      </trans-unit>
+      <trans-unit id="1319">
+        <source>ノルヴラント</source>
+        <target>ノルヴラント</target>
+      </trans-unit>
+      <trans-unit id="1320">
+        <source>ウォーリア・オブ・ライト討滅戦</source>
+        <target>ウォーリア・オブ・ライト討滅戦</target>
+      </trans-unit>
+      <trans-unit id="1321">
+        <source>極ウォーリア・オブ・ライト討滅戦</source>
+        <target>極ウォーリア・オブ・ライト討滅戦</target>
+      </trans-unit>
+      <trans-unit id="1322">
+        <source>人形タチノ軍事基地</source>
+        <target>人形タチノ軍事基地</target>
+      </trans-unit>
+      <trans-unit id="1323">
+        <source>スカーミッシュ</source>
+        <target>スカーミッシュ</target>
+      </trans-unit>
+      <trans-unit id="1324">
+        <source>クリティカルエンゲージメント</source>
+        <target>クリティカルエンゲージメント</target>
+      </trans-unit>
+      <trans-unit id="1325">
+        <source>セイブ・ザ・クイーン</source>
+        <target>セイブ・ザ・クイーン</target>
+      </trans-unit>
+      <trans-unit id="1326">
+        <source>マトーヤのアトリエ</source>
+        <target>マトーヤのアトリエ</target>
+      </trans-unit>
+      <trans-unit id="1327">
+        <source>再生編</source>
+        <target>再生編</target>
+      </trans-unit>
+      <trans-unit id="1328">
+        <source>エメラルドウェポン破壊作戦</source>
+        <target>エメラルドウェポン破壊作戦</target>
+      </trans-unit>
+      <trans-unit id="1329">
+        <source>極エメラルドウェポン破壊作戦</source>
+        <target>極エメラルドウェポン破壊作戦</target>
+      </trans-unit>
+      <trans-unit id="1330">
+        <source>グンヒルド・ディルーブラム</source>
+        <target>グンヒルド・ディルーブラム</target>
+      </trans-unit>
+      <trans-unit id="1331">
+        <source>カストルム・ラクスリトレ攻城戦</source>
+        <target>カストルム・ラクスリトレ攻城戦</target>
+      </trans-unit>
+      <trans-unit id="1332">
+        <source>パガルザン</source>
+        <target>パガルザン</target>
+      </trans-unit>
+      <trans-unit id="1333">
+        <source>ダイヤウェポン捕獲作戦</source>
+        <target>ダイヤウェポン捕獲作戦</target>
+      </trans-unit>
+      <trans-unit id="1334">
+        <source>極ダイヤウェポン捕獲作戦</source>
+        <target>極ダイヤウェポン捕獲作戦</target>
+      </trans-unit>
+      <trans-unit id="1335">
+        <source>希望ノ砲台：「塔」</source>
+        <target>希望ノ砲台：「塔」</target>
+      </trans-unit>
+      <trans-unit id="1336">
+        <source>ザトゥノル高原</source>
+        <target>ザトゥノル高原</target>
+      </trans-unit>
+      <trans-unit id="1337">
+        <source>旗艦ダル・リアータ攻略戦</source>
+        <target>旗艦ダル・リアータ攻略戦</target>
+      </trans-unit>
+      <trans-unit id="1338">
+        <source>ゾットの塔</source>
+        <target>ゾットの塔</target>
+      </trans-unit>
+      <trans-unit id="1339">
+        <source>バブイルの塔</source>
+        <target>バブイルの塔</target>
+      </trans-unit>
+      <trans-unit id="1340">
+        <source>ヴァナスパティ</source>
+        <target>ヴァナスパティ</target>
+      </trans-unit>
+      <trans-unit id="1341">
+        <source>ヒュペルボレア造物院</source>
+        <target>ヒュペルボレア造物院</target>
+      </trans-unit>
+      <trans-unit id="1342">
+        <source>アイティオン星晶鏡</source>
+        <target>アイティオン星晶鏡</target>
+      </trans-unit>
+      <trans-unit id="1343">
+        <source>レムナント</source>
+        <target>レムナント</target>
+      </trans-unit>
+      <trans-unit id="1344">
+        <source>スマイルトン</source>
+        <target>スマイルトン</target>
+      </trans-unit>
+      <trans-unit id="1345">
+        <source>スティグマ・フォー</source>
+        <target>スティグマ・フォー</target>
+      </trans-unit>
+      <trans-unit id="1346">
+        <source>ゾディアーク討滅戦</source>
+        <target>ゾディアーク討滅戦</target>
+      </trans-unit>
+      <trans-unit id="1347">
+        <source>極ゾディアーク討滅戦</source>
+        <target>極ゾディアーク討滅戦</target>
+      </trans-unit>
+      <trans-unit id="1348">
+        <source>ハイデリン討滅戦</source>
+        <target>ハイデリン討滅戦</target>
+      </trans-unit>
+      <trans-unit id="1349">
+        <source>極ハイデリン討滅戦</source>
+        <target>極ハイデリン討滅戦</target>
+      </trans-unit>
+      <trans-unit id="1350">
+        <source>終焉の戦い</source>
+        <target>終焉の戦い</target>
+      </trans-unit>
+      <trans-unit id="1351">
+        <source>万魔殿パンデモニウム</source>
+        <target>万魔殿パンデモニウム</target>
+      </trans-unit>
+      <trans-unit id="1352">
+        <source>万魔殿パンデモニウム零式</source>
+        <target>万魔殿パンデモニウム零式</target>
+      </trans-unit>
+      <trans-unit id="1353">
+        <source>辺獄編</source>
+        <target>辺獄編</target>
+      </trans-unit>
+      <trans-unit id="1354">
+        <source>アルザダール海底遺跡群</source>
+        <target>アルザダール海底遺跡群</target>
+      </trans-unit>
+      <trans-unit id="1355">
+        <source>終極の戦い</source>
+        <target>終極の戦い</target>
+      </trans-unit>
+      <trans-unit id="1356">
+        <source>輝ける神域 アグライア</source>
+        <target>輝ける神域 アグライア</target>
+      </trans-unit>
+      <trans-unit id="1357">
+        <source>絶竜詩戦争</source>
+        <target>絶竜詩戦争</target>
+      </trans-unit>
+      <trans-unit id="1358">
+        <source>クリスタルコンフリクト</source>
+        <target>クリスタルコンフリクト</target>
+      </trans-unit>
+      <trans-unit id="1359">
+        <source>パライストラ</source>
+        <target>パライストラ</target>
+      </trans-unit>
+      <trans-unit id="1360">
+        <source>ヴォルカニック・ハート</source>
+        <target>ヴォルカニック・ハート</target>
+      </trans-unit>
+      <trans-unit id="1361">
+        <source>クラウドナイン</source>
+        <target>クラウドナイン</target>
+      </trans-unit>
+      <trans-unit id="1362">
+        <source>バルバリシア討滅戦</source>
+        <target>バルバリシア討滅戦</target>
+      </trans-unit>
+      <trans-unit id="1363">
+        <source>極バルバリシア討滅戦</source>
+        <target>極バルバリシア討滅戦</target>
+      </trans-unit>
+      <trans-unit id="1364">
+        <source>煉獄編</source>
+        <target>煉獄編</target>
+      </trans-unit>
+      <trans-unit id="1365">
+        <source>トロイアコート</source>
+        <target>トロイアコート</target>
+      </trans-unit>
+      <trans-unit id="1366">
+        <source>ヴァリアントダンジョン</source>
+        <target>ヴァリアントダンジョン</target>
+      </trans-unit>
+      <trans-unit id="1367">
+        <source>アナザーダンジョン</source>
+        <target>アナザーダンジョン</target>
+      </trans-unit>
+      <trans-unit id="1368">
+        <source>シラディハ水道</source>
+        <target>シラディハ水道</target>
+      </trans-unit>
+      <trans-unit id="1369">
+        <source>異聞シラディハ水道</source>
+        <target>異聞シラディハ水道</target>
+      </trans-unit>
+      <trans-unit id="1370">
+        <source>異聞シラディハ水道 零式</source>
+        <target>異聞シラディハ水道 零式</target>
+      </trans-unit>
+      <trans-unit id="1371">
+        <source>ラピス・マナリス</source>
+        <target>ラピス・マナリス</target>
+      </trans-unit>
+      <trans-unit id="1372">
+        <source>オルト・エウレカ</source>
+        <target>オルト・エウレカ</target>
+      </trans-unit>
+      <trans-unit id="1373">
+        <source>絶オメガ検証戦</source>
+        <target>絶オメガ検証戦</target>
+      </trans-unit>
+      <trans-unit id="1374">
+        <source>喜びの神域 エウプロシュネ</source>
+        <target>喜びの神域 エウプロシュネ</target>
+      </trans-unit>
+      <trans-unit id="1375">
+        <source>ルビカンテ討滅戦</source>
+        <target>ルビカンテ討滅戦</target>
+      </trans-unit>
+      <trans-unit id="1376">
+        <source>極ルビカンテ討滅戦</source>
+        <target>極ルビカンテ討滅戦</target>
+      </trans-unit>
+      <trans-unit id="1377">
+        <source>東方絡繰御殿</source>
+        <target>東方絡繰御殿</target>
+      </trans-unit>
+    </body>
+  </file>
 </xliff>
