@@ -5513,9 +5513,6 @@
         <source>東方絡繰御殿</source>
         <target>동방락전어전</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" id="1378" approved="no"><source>1378</source>
-        <target state="translated">테스트 대상</target>
-      </trans-unit>
     </body>
   </file>
 </xliff>
