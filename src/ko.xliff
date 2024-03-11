@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file original="" xml:space="preserve" source-language="ja" target-language="ko">
     <header>
       <tool tool-id="poeditor.com" tool-name="POEditor"/>
@@ -5512,6 +5512,9 @@
       <trans-unit id="1377">
         <source>東方絡繰御殿</source>
         <target>동방락전어전</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="1378" approved="no"><source>1378</source>
+        <target state="translated">테스트 대상</target>
       </trans-unit>
     </body>
   </file>
